@@ -606,7 +606,7 @@ dd{
 .post figure img{
     margin:0 auto;
     display:block;
-    width:70%
+    /*width:70%*/
 }
 .post .highlight,.post img{
     margin-bottom:2rem
