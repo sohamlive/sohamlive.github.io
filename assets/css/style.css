@@ -621,7 +621,7 @@ dd{
 }
 .post .featuredImage{
     position:relative;
-    margin-top:2rem
+    margin-top:0
 }
 .post .featuredImage img{
     margin-bottom:0
@@ -894,7 +894,7 @@ dd{
     }
     .post .featuredImage{
         position:relative;
-        margin-top:2rem
+        margin-top:0
     }
     .post .featuredImage:before{
         background:#fff;
