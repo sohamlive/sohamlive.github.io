@@ -438,7 +438,7 @@ body p,body ul{
     color:#fff
 }
 audio,iframe,img,object,video{
-    max-width:70%
+    max-width:100%
 }
 .container{
     max-width:610px;
@@ -605,7 +605,8 @@ dd{
 }
 .post figure img{
     margin:0 auto;
-    display:block
+    display:block;
+    width:70%
 }
 .post .highlight,.post img{
     margin-bottom:2rem
