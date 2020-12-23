@@ -2,6 +2,7 @@
 layout: post
 title:  "Two Cities"
 date:   2020-03-20
+image: two-cities-cover.png
 ---
 
 <p class="intro"><span class="dropcap">T</span>he following is a collection of photos of some of my experiences in Calcutta and Jamshedpur in the present year writing about whom has been held up owing to me getting involved in some other things. Some of the images brought back wistful memories of mine associated with these cities. Nothing special, completely ordinary, maybe mundane. But sometimes, someone’s monotonous experiences can be someone else’s aberrant.</p>
