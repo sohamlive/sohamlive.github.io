@@ -149,6 +149,7 @@ canvas{
 body .intro{
     font-size:1.25em;
     line-height:1.7;
+    text-align:justify;
 }
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{
     margin:.5rem 0 1.5rem;
@@ -256,7 +257,7 @@ blockquote{
 .button-secondary:focus,.button-secondary:hover,.button-tertiary:focus,.button-tertiary:hover,.button:focus,.button:hover,.button__outline:focus,.button__outline:hover{
     color:#fff;
     text-decoration:none;
-    background-color:#21653f
+    background-color:#21653f;
 }
 .button-secondary:active,.button-tertiary:active,.button:active,.button__outline:active{
     top:1px
@@ -276,7 +277,7 @@ blockquote{
 .button__outline{
     background-color:transparent;
     border:3px solid #2e8b57;
-    color:#2e8b57
+    color:#2e8b57;
 }
 .button__outline:hover{
     background-color:#2e8b57;
@@ -438,7 +439,7 @@ body p,body ul{
     color:#fff
 }
 audio,iframe,img,object,video{
-    max-width:70%
+    max-width:100%
 }
 .container{
     max-width:610px;
@@ -514,7 +515,8 @@ a:hover{
 .noList{
     list-style:none;
     padding-left:0;
-    margin-left:0
+    margin-left:0;
+    
 }
 dt{
     font-weight:700
@@ -534,10 +536,10 @@ dd{
     padding-top:1em
 }
 .header{
-    background-color:#2e8b57;
-    background-image:url(../img/touring.jpg);
+    background-color:#171d27; /*#2e8b57;*/
+    background-image:url(../img/cover-2-3.jpg);
     background-size:cover;
-    background-position:50%;
+    background-position:25%;
     color:#fff;
     padding:0;
     height:3em
@@ -550,15 +552,18 @@ dd{
     margin:0;
     float:left;
     padding-left:2rem;
+    letter-spacing:30px;
     font-size:1em;
     line-height:3em;
     font-family:Crimson Text,Open Sans,Helvetica,Arial,sans-serif;
     font-weight:700;
-    text-transform:uppercase
+    text-transform:uppercase;
+    text-shadow:2px 2px 5px #242424;
+    
 }
 .header h1 a{
     color:#fff;
-    text-decoration:none
+    text-decoration:none;
 }
 .post .postTitle{
     text-align:center;
@@ -570,7 +575,8 @@ dd{
     margin:2.5em 0;
     padding:0;
     line-height:1.8;
-    position:relative
+    position:relative;
+    text-align:center;
 }
 .post blockquote:before{
     top:-1.25em
@@ -595,21 +601,29 @@ dd{
     font-weight:300
 }
 .post figure{
-    margin:3rem 0
+    margin:3rem 0 1em;
+}
+.post p{
+    text-align:justify;
 }
 .post figure figcaption{
     text-align:center;
     font-size:.9em;
     font-style:italic;
-    color:#5e5e5e
+    color:#5e5e5e;
+    margin-top:0.5em
 }
 .post figure img{
     margin:0 auto;
-    display:block
+    display:block;
+    /*width:70%*/
 }
-.post .highlight,.post img{
+.post .highlight,.{
     margin-bottom:2rem
 }
+.post img{
+    margin-bottom:0; /*1rem*/
+}    
 .post .highlight{
     clear:both
 }
@@ -619,10 +633,13 @@ dd{
 }
 .post .featuredImage{
     position:relative;
-    margin-top:2rem
+    margin-top:0
 }
 .post .featuredImage img{
-    margin-bottom:0
+    margin-bottom:1em;
+    display:block;
+    margin-right:auto;
+    margin-left:auto
 }
 .postNav{
     border-top:1px solid #e6e6e6;
@@ -763,7 +780,7 @@ dd{
     margin:0 0 .5em;
     font-weight:700
 }
-@media (prefers-color-scheme:dark){
+/*@media (prefers-color-scheme:dark){
     body{
         background-color:#000
     }
@@ -777,7 +794,7 @@ dd{
     .footer .container{
         border-top-color:#1a1a1a
     }
-}
+}*/
 @media only screen and (min-width:800px){
     body{
         font-size:125%
@@ -815,7 +832,7 @@ dd{
         margin:0 auto 1em /*2rem auto 1em*/
     }
     .header{
-        height:12em; /*15em*/
+        height:14em; /*15em*/
         position:relative;
         padding-bottom:2em
     }
@@ -892,7 +909,7 @@ dd{
     }
     .post .featuredImage{
         position:relative;
-        margin-top:2rem
+        margin-top:0
     }
     .post .featuredImage:before{
         background:#fff;
@@ -939,7 +956,7 @@ dd{
         margin-right:0
     }
 }
-@media only screen and (min-width:800px) and (prefers-color-scheme:dark){
+/*@media only screen and (min-width:800px) and (prefers-color-scheme:dark){
     body{
         background-color:#000;
         color:#fff
@@ -955,5 +972,5 @@ dd{
     .container{
         max-width:990px
     }
-}
+}*/
 
