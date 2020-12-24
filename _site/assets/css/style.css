@@ -661,7 +661,7 @@ dd{
     font-weight:600;
     font-size:.9em;
     text-transform:uppercase;
-    text-align:center
+    text-align:center;
 }
 .postNav .next img,.postNav .prev img{
     z-index:1;
@@ -671,7 +671,8 @@ dd{
     transform:translateY(-50%);
     left:0;
     width:100%;
-    height:auto
+    height:auto;
+    opacity:0.6
 }
 .postNav .next span,.postNav .prev span{
     z-index:10;
@@ -689,7 +690,8 @@ dd{
     text-shadow:1px 1px 3px rgba(0,0,0,.8);
     padding:0 .5rem;
     position:relative;
-    transition:all .2s ease-in-out
+    transition:all .2s ease-in-out;
+    background:#202020;
 }
 .postNav .next:hover.image,.postNav .prev:hover.image{
     opacity:.8

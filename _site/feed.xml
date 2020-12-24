@@ -5,8 +5,8 @@
     <description>Random Ramblings of SB</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Dec 2020 15:41:20 +0530</pubDate>
-    <lastBuildDate>Thu, 24 Dec 2020 15:41:20 +0530</lastBuildDate>
+    <pubDate>Thu, 24 Dec 2020 18:14:31 +0530</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2020 18:14:31 +0530</lastBuildDate>
     <generator>Jekyll v4.1.1</generator><item>
         <title>Two Cities</title>
         <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;he following is a collection of photos of some of my experiences in Calcutta and Jamshedpur in the present year writing about whom has been held up owing to me getting involved in some other things. Some of the images brought back wistful memories of mine associated with these cities. Nothing special, completely ordinary, maybe mundane. But sometimes, someone’s monotonous experiences can be someone else’s aberrant.&lt;/p&gt;
@@ -518,84 +518,192 @@ Sar Ankhon Pe Naav Hai Teri Naav Hai Teri’
 </description><pubDate>Mon, 22 Oct 2018 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/blog/2018/10/22/ye-jo-khushi</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2018/10/22/ye-jo-khushi</guid></item><item>
-        <title>Example Post Formatting</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+        <title>Random</title>
+        <description>&lt;p&gt;Took these over the past month or so.&lt;/p&gt;
 
-&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+&lt;p&gt;Quintessentially random images taken from a boring perspective, having no subjects, theme or quality. Mediocrity at its best.&lt;/p&gt;
 
-&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+&lt;p&gt;Also features a self portrait after realizing that the last one was removed a few years ago.&lt;/p&gt;
 
-&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/random-1.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;A Hostel With a View&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+&lt;p&gt;Hostel J – A time when Thapar still took care, quality, aesthetics and functionality in focus while building its hostels.&lt;/p&gt;
 
-&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/random-2.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;When It Rained&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
+&lt;p&gt;When this photo was taken, these flowering plants were still present on the divider en route to COS. A few days ago all these were trimmed. The divider is now just a bare collection of concrete tiles. The monotony of the pathway is broken by the empty soil mounds where only the twigs remains. No greens. No flowers any more. An eyesore.&lt;/p&gt;
 
-&lt;blockquote&gt;Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.&lt;/blockquote&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/random-3.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;A Room With a View&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;/p&gt;
+&lt;p&gt;Early to bed, early to rise will reward you with a view so nice. This is the first morning after the torrential rains which hit Northern India in September subsided.&lt;/p&gt;
 
-&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered List&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;List Item&lt;/li&gt;
-  &lt;li&gt;Longer List Item
-    &lt;ul&gt;
-      &lt;li&gt;Nested List Item&lt;/li&gt;
-      &lt;li&gt;Nested Item&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;List Item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/random-4.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Sunrise from J&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;h2 id=&quot;ordered-list&quot;&gt;Ordered List&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;List Item&lt;/li&gt;
-  &lt;li&gt;Longer List Item
-    &lt;ol&gt;
-      &lt;li&gt;Nested OL Item&lt;/li&gt;
-      &lt;li&gt;Another Nested Item&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;List Item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;The early morning chill has begun to set in. It is misty outside and the birds are yet to wake up. The hostel is still sleeping – it is 6 in the morning. Everything is so quiet and serene around.&lt;/p&gt;
 
-&lt;h2 id=&quot;definition-list&quot;&gt;Definition List&lt;/h2&gt;
-&lt;dl&gt;
-  &lt;dt&gt;Coffee&lt;/dt&gt;
-  &lt;dd&gt;Black hot drink&lt;/dd&gt;
-  &lt;dt&gt;Milk&lt;/dt&gt;
-  &lt;dd&gt;White cold drink&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/random-5.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Symmetry Fail Walkway&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.&lt;/p&gt;
+&lt;p&gt;Just after 1 PM or perhaps just before on a warm October afternoon. Thought that with the less crowd flow, I could finally take a photo of this walkway connecting E to F and D blocks, incorporating symmetry and restarting my dormant Instagram with something different. The black and white is a tribute to my bravado on getting inspired by Raghu Rai. Sigh!&lt;/p&gt;
 
-&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/random-6.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Quiz – A Modern Art&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;p&gt;15 people. One question. Hands on chin. Sombre expressions. Sometimes I am amazed at how one question can bring forth a myriad amount of expressions from people. Clueless, Pride, Dejection, Anger, Stupidity – this.is.quiz.&lt;/p&gt;
 
-&lt;p&gt;Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/random-7.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Self Portrait 2018&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-</description><pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/blog/2014/12/15/example-post-formatting</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2014/12/15/example-post-formatting</guid></item><item>
-        <title>Featured Image</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
+</description><description>&lt;p&gt;Took these over the past month or so.&lt;/p&gt;
+</description><pubDate>Fri, 19 Oct 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/2018/10/19/random</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/10/19/random</guid></item><item>
+        <title>The Joy of Achievement</title>
+        <description>&lt;h3 id=&quot;april-2018&quot;&gt;April 2018&lt;/h3&gt;
 
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
+&lt;p&gt;How does one feel when a dream which has been kept confined for years suddenly becomes real? How does one feel when The Dream which has never been shared with anyone else finds an echo in another soul and then reflects back with such force and optimism that nothing can stop it from coming out in the open? How would you describe perhaps the only moment whence you feel proud of yourself?&lt;/p&gt;
 
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
+&lt;p&gt;Borrowing the title of this post from a book (which I am yet to read) would be in complete symbiosis with my thoughts and emotions. I should have done this post long ago lest the day fuzzies out of my mind and withers away into oblivion.  Days have passed since 14&lt;sup&gt;th&lt;/sup&gt; April, 2018 and now in August I hope to remember enough to warrant this writing. Ever since my school life I have wished to travel and win quizzes. The two never coincided. Till now.&lt;/p&gt;
 
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
+&lt;p&gt;Sometime back in January, RD and I had won the Chandigarh round of Tata Crucible. Then again in March we were the runners up in the Delhi zonals securing our ticket for the National Finals. It all felt surreal back then on 17&lt;sup&gt;th&lt;/sup&gt; March in Delhi. While I was visibly excited and happy, RD was not. To this day I keep wondering to what kept her from celebrating or even smiling. Surreal was knowing when you have qualified for the Nationals, missing ones’s (mine) Volvo bus from Delhi to Patiala and then covering the journey at 9 PM on a PRTC bus is definitely not. I have a certain bad luck associated with missing the bus from Delhi for my half yearly pilgrimage to Patiala. RD took the wrong metro home. So, in a way balance was maintained. Delhi was done. Vivanta by Taj, Dwarka was done. Giving my first TV interview was done. Winning a Kindle and another Fastrack done too. While I made the journey alone, I had these few materialistic possessions and an experience to remember to give me company.&lt;/p&gt;
 
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/joy-of-achievement-1.png&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Winning the Delhi Zonals&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description><pubDate>Sun, 14 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/blog/2014/12/14/featured-image</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2014/12/14/featured-image</guid></item></channel>
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/joy-of-achievement-2.png&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;There is joy in the littlest of things to be found&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Collaborating over Google Sheets, Skype and the countless emails exchanged for the finals was a time to remember. Also, the period of un-collaborating for a few days in between. Ahem. I would better leave these details out.&lt;/p&gt;
+
+&lt;h4 id=&quot;14th-april-2018-patiala&quot;&gt;14&lt;sup&gt;th&lt;/sup&gt; April, 2018. Patiala&lt;/h4&gt;
+
+&lt;p&gt;I have always been a proponent of things not going smooth in order to achieve something. A skewed perspective I agree. The early hours of 14th April were however smooth and this unsettled me a bit. I wanted us to win. At stake was a Tata Zest (each), enough prize money to pay the increasing fees of Thapar for one semester, one international trip to inaugurate my never-used-before passport, two trophies, one huge cheque and bragging rights for the rest of our lives.&lt;/p&gt;
+
+&lt;p&gt;Not finding a spoon to eat Maggi, improvising my pens as chopsticks instead, I was still unfazed. Little oversight is done all the times but the guard locking up the girl’s hostel’s gate and getting a call from RD that she cannot come out – seldom.  Perhaps it was my drowsiness or the voice of RD that I didn’t pay much attention to it.&lt;/p&gt;
+
+&lt;p&gt;She cannot come out of the hostel. Okay. She will somehow. Poor me. Ignorant me.&lt;/p&gt;
+
+&lt;p&gt;Waiting outside the gate in the car for more than 10 minutes my thoughts were still in ticking off things in my to do list. Huffing, puffing and a little annoyed at my perceived ignorance to the working of things, she came. The sight of her huge suitcase confused me a bit. Our Bombay trip was for barely 2 days.&lt;/p&gt;
+
+&lt;p&gt;RD – Oh! No. It is actually very light. It’s for the trophies&lt;/p&gt;
+
+&lt;p&gt;We are going to win today, I thought. Secretly wishing that some unsmoothness creeps into our day before the finals begins. I still did not pay much attention to what RD kept saying about the troubles she went through when she found gate locked. Still sleepy. Still blissfully unaware.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/joy-of-achievement-3.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Achievement unlocked – Cello Gripper and Pencil for chopsticks&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;14th-april-2018-bombay&quot;&gt;14&lt;sup&gt;th&lt;/sup&gt; April, 2018. Bombay&lt;/h4&gt;
+
+&lt;p&gt;Landing an hour early at the airport after what was my first flying experience which I did not enjoy at all – cold food, ears popping, weird sensation during takeoff, some light turbulence and fake, cold smiles from the air hostesses, I was not too happy. The novelty of my first flight wore off soon enough. The shiny interiors of the Bandra airport was a stark contrast to the Indian railway stations where the true heart lies. Overpriced cafeterias and security checks takes the joy away. I guess the joy of flying is only reserved for the deep pockets. Or maybe I am still naïve in the ways of airports and planes.&lt;/p&gt;
+
+&lt;p&gt;We were booked at Vivanta by Taj, Colaba. The Uber ride from airport to hotel was one to remember which none of us can forget in the near future. It wasn’t witnessing the Bandra – Worli Sealink, Antilla up close but our driver.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sir, aap kahan se aye hai? First time hai Mumbai mein? Kya karte hai? Koi conference hai? Evening mein Kamla Nehru Park achi hoti hai but bahut traffic rehta hai.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mai pehle ek cheque book printing press mein kaam karta tha. Ab Uber chalata hu. Mera beta Vidyamandir Classes se JEE ki tayari kar raha hai.&lt;/em&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/joy-of-achievement-4.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;March se toll badh gaya hai&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;His questions were endless, his enthusiasm in showing and telling us about his city was relentless. In the 1 hour drive he told us his life story, about his family and his son in the Mumbaikar accent which I thought only existed in movies. There is simply something about cities such as Bombay, which over centuries has acquired a uniqueness of flavour that leaves visitors like us in amazement.&lt;/p&gt;
+
+&lt;p&gt;Staying for an all-paid room at Taj for the second time had heightened my desires for materialistic comforts and money. It was Taj after all. And from here the chinks in the smoothness of our day began to appear.&lt;/p&gt;
+
+&lt;p&gt;We did not get rooms for almost 90 minutes. We were tired, sleep deprived and dead nervous for the evening. Even waiting in the lounge and getting complementary coffee did not lift our moods. Both of us were getting jittery and impatient. Playing Wordament did not help too and I lost to RD in each of the games. Our driver had told us enough stories to warrant another round of talks with each other. By the time we got our rooms, it was already 2 in the afternoon. The Finals were at 4. No time to catch some sleep and our stomachs were making growling. Then we made a bad decision.&lt;/p&gt;
+
+&lt;p&gt;For lunch we decided to go to the Konkan Café restaurant which serves a platter inspired from the Western coast of India and ordered a veg thali (Saturday -_-) . We wanted a simple lunch. What we got was rasam, five different types of South Indian dishes in small brass bowls whose names I cannot pronounce but all of them tasted sour (as expected). Some papad, veg pulao, plain rice, uttapam and perhaps jalebi. It was a complicated lunch. Being quintessential Bengalis that we were it was revolting to us. Both of us wished for some simple aloo sheddo bhaat and some daal (We don’t like fish all the time, you stereotypers) . Again, remember that we were not accustomed to the Taj ways.&lt;/p&gt;
+
+&lt;p&gt;A sorry lunch indeed. Some part of me was happy. Not Smooth!&lt;/p&gt;
+
+&lt;h4 id=&quot;the-finals-vivanta-by-taj-south-bombay&quot;&gt;The Finals. Vivanta by Taj, South Bombay&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/joy-of-achievement-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We lost. We underestimated. We were slow. We were afraid.&lt;/p&gt;
+
+&lt;p&gt;RD’s green shirt or bright orange socks didn’t work. RD’s colourful pens which we each held in our hands firmly  and my old battered watch couldn’t conjure up the same magic as before or filling each of my coat pockets with chocolates didn’t bring in the joy which we were supposed to be a part of at the end. Oh yes, we had our share of lucky charms.&lt;/p&gt;
+
+&lt;p&gt;Gone.&lt;/p&gt;
+
+&lt;p&gt;Shattered would be perhaps an easier word to describe the moments which I will omit from here. It was too painful for us. We were the perfect team. But so were others. At the end, the best won. It may have been days since but the feel of loss is still fresh. No one likes to lose when you have gone so far. But, I guess this was the way it was meant to be.&lt;/p&gt;
+
+&lt;p&gt;I hate consolations. I personally do not like to share my loss with anyone else. The feeling of helplessness overwhelms me. My cousin and UA who made it to venue to watch the finals and cheer us tried their very best. But truth be told it didn’t help us. At least to me. It was nice to have them around though. Familiar faces in a sea of strangers is always a good sight.&lt;/p&gt;
+
+&lt;p&gt;We missed our 3-course dinner again. A light Italian dinner atop a hotel’s terrace with the four of us enjoying the enticing view of the Marine Drive and feeling the gentle breeze while another round of pasta was served made up for the day.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/joy-of-achievement-6.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;SB, AB, RD, UA&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;15th-april-2018-bombay&quot;&gt;15&lt;sup&gt;th&lt;/sup&gt; April, 2018. Bombay&lt;/h4&gt;
+
+&lt;p&gt;This is the day I (and perhaps RD and I) will the cherish the most. The much-needed sleep helped to wipe the sadness from us a little. The buffet breakfast did the rest. The chicken cheese omelette brought the smile back. Having again an Italian 3-course lunch at Trattoria brought our happy selves back. Having an entire day to ourselves was another novelty which we were yet to unlock.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/joy-of-achievement-7.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Sunset at Chowpatty&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Sitting on the sandy beach of Chowpatty and the watching the sunset, having ice lollies and pani puri from the food stalls nearby was a treat in itself. A short trip to Colaba Causeway Market and then Leopold Café, wondering at the brilliance of the murals of Mario Miranda over a simple chicken sandwich in Café Mondegar gave us the happiness which was lost the day before.&lt;/p&gt;
+
+&lt;p&gt;I am perhaps understating that day. Writing about it, it sounds boring. But experiencing it was as different as it could be. I wish I could bring in even one iota of the vibrancy from the moment we experienced.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/joy-of-achievement-8.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;In Café Mondegar&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Back to our hotel, we didn’t miss our dinner (our last 5-star dinner) this time. Our appetite was nonexistent. Our cravings for our last dinner wasn’t. Konkan Café again. Non-vegetarian sea food thali. Looking at the plate in front of us with fried pomfret made us give in to our fake hunger. Man vs Food. 30 minutes later. Food won. Man lost. Man couldn’t move.&lt;/p&gt;
+
+&lt;p&gt;Coming from a middle-class family, wasting food was an offence of unimaginable proportions. The plate always had to be cleaned off lest a reprimand from father. This time, looking at time half eaten fish, jalebi, and other South Indian dishes (which I again cannot recall) on our plate we were too full to even give a damn about it. Sorry, Baba and Maa. Next time I will not waste food from a five-star hotel.&lt;/p&gt;
+
+&lt;p&gt;We were so overwhelmed that we did not even recheck the timings of the flight next day. We kept making early morning plans. Only when I was done for the day and was ready to slumber, I got a phone call from RD to learn that the flight was much earlier.&lt;/p&gt;
+
+&lt;p&gt;The reality dawned quite soon.&lt;/p&gt;
+
+&lt;p&gt;Even on our way to the airport, we had some crazy whims. However, 15th April 2018 was a day to remember; a fine beginning to the Bengali New Year.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/joy-of-achievement-9.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Man vs Food. Food won&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;august-2018&quot;&gt;August, 2018&lt;/h3&gt;
+
+&lt;p&gt;As I sit in my hostel room and type this, I realized that for us it was the experience and the time we spent our prize. We lost on the material front. We won on the experience. Such beautiful moments come rarely. Later we found that we were the only ones having an extra day to spend since the Chandigarh Airport remains closed on Sundays. Fate? Destiny? Who knows? The Joy of Achievement did not lie in the Kindles we won, the days we spent at Taj Hotels or even the &lt;del&gt;money&lt;/del&gt; (no, money is important) we won. Instead it lay with the time we had and we spent and the journey we had. While RD’s suitcase was no heavier than before, both of us were. Making our way back to Patiala, back to our mundane, real life – RD to her thesis (which would take months to complete) and me to saving my semester (which eventually couldn’t be done) was difficult. Waking up from a dream is always hard and sad.&lt;/p&gt;
+
+&lt;p&gt;Living a dream isn’t.&lt;/p&gt;
+
+&lt;p&gt;Nostalgic.&lt;/p&gt;
+</description><description>&lt;h3 id=&quot;april-2018&quot;&gt;April 2018&lt;/h3&gt;
+</description><pubDate>Sun, 05 Aug 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/2018/08/05/joy-of-achievement</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/08/05/joy-of-achievement</guid></item></channel>
 </rss>
