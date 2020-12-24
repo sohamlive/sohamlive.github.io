@@ -24,7 +24,10 @@ figure{
 hr{
     box-sizing:content-box;
     height:0;
-    overflow:visible
+    overflow:visible;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    width:50%
 }
 pre{
     font-family:monospace,monospace;
@@ -623,6 +626,8 @@ dd{
 }
 .post img{
     margin-bottom:0; /*1rem*/
+    display: block;
+    margin: auto
 }    
 .post .highlight{
     clear:both
