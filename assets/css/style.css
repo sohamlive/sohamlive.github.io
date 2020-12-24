@@ -457,7 +457,7 @@ a:hover{
     z-index:1
 }
 .nav-collapse ul{
-    margin:0;
+    margin-top:0;
     padding:0;
     width:100%;
     display:block;
@@ -483,10 +483,10 @@ a:hover{
     overflow:hidden;
     zoom:1;
     clear:both;
-    width:100%
+    width:100%;
 }
 .nav-collapse.opened{
-    max-height:9999px
+    max-height:9999px;
 }
 .nav-toggle{
     -webkit-tap-highlight-color:rgba(0,0,0,0);
@@ -501,7 +501,7 @@ a:hover{
     margin-top:1.7em;
     background-color:#2e8b57;
     border-radius:4px;
-    padding:0 .5em;
+    padding:0 0.6em;
     color:#fff;
     text-decoration:none;
     position:relative;
@@ -516,7 +516,7 @@ a:hover{
     list-style:none;
     padding-left:0;
     margin-left:0;
-    
+    margin-top:0
 }
 dt{
     font-weight:700
@@ -542,17 +542,17 @@ dd{
     background-position:25%;
     color:#fff;
     padding:0;
-    height:5em
+    height:5em;
 }
 .header .container{
     padding:0;
-    max-width:100%
+    max-width:100%;  
 }
 .header h1{
     margin: 0em 0 0 0;
     float:left;
     padding-left:2rem;
-    letter-spacing:1px;
+    letter-spacing:0px;
     font-size:2em;
     line-height:3em;
     font-family:Crimson Text,Open Sans,Helvetica,Arial,sans-serif;
@@ -710,10 +710,11 @@ dd{
 }
 .footer .copy,.footer .footer-links{
     font-size:.5em;
-    
+    text-align:center;
 }
 .footer .copy{
-    margin-bottom:1rem
+    margin-bottom:1rem;
+    text-align:center;
 }
 .footer-links ul{
     text-align:center
@@ -846,7 +847,7 @@ dd{
     .header h1{
         font-size:3em;
         line-height:1;
-        letter-spacing:1px;
+        letter-spacing:0px;
         padding-left:0
     }
     .header nav{
@@ -942,7 +943,8 @@ dd{
     }
     .footer .container{
         padding:1rem 0;
-        max-width:800px
+        max-width:800px;
+        text-align:center;
     }
     .contactContent{
         max-width:48%;
