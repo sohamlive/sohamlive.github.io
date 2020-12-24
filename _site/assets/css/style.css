@@ -706,6 +706,8 @@ dd{
     clear:both;
     text-transform:uppercase;
     color:#555555;
+    font-family:Open Sans,Helvetica,Arial,sans-serif;
+    font-weight:300
 }
 .footer .container{
     border-top:4px solid #d9d9d9;
