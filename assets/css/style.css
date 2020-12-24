@@ -857,14 +857,15 @@ dd{
         font-size:3em;
         line-height:1;
         letter-spacing:0px;
-        padding-left:0
+        padding-left:10px
     }
     .header nav{
         float:left;
         clear:left
     }
     .header nav ul{
-        margin:0
+        margin:0;
+        font-size: 115%;
     }
     .header nav ul li{
         display:inline;
