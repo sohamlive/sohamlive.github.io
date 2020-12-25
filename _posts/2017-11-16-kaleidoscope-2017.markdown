@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Kaleidoscope 2017"
+date:   2017-11-16
+image: kaleidoscope-cover.png
+description: Collection of images from Kaleidoscope 2017 - the annual exhibition of Fine Arts & Photographic Society, Thapar University on the theme Around The World. One of my most favourable events from college. Pure art.
+---
+
+There are a few things in Thapar which are so good that you would want to sit back, relax and lavish praise on them. But it wouldn’t come through words; language would fail you. It wouldn’t come through actions either; you would be overwhelmed. How it happens is unique to everyone of us. The Fine Arts & Photographic Society (FAPS) is one such thing. Immensely talented and passionate people creating and exhibiting art in an all engineering college environment. Commendable efforts.
+
+The society presented its annual exhibition Kaleidoscope 2017 on 15<sup>th</sup> November, 2017.  For one evening the otherwise drab SBOP Lawns transformed into a mesmerizing splendor of Art under a delightful canopy of lights. Around The World.
+
+<img src="{{ '/assets/img/kaleidoscope-1.jpg' | prepend: site.baseurl }}" alt=""> 
+
+<img src="{{ '/assets/img/kaleidoscope-2.jpg' | prepend: site.baseurl }}" alt=""> 
+
+<img src="{{ '/assets/img/kaleidoscope-3.jpg' | prepend: site.baseurl }}" alt=""> 
+
+<img src="{{ '/assets/img/kaleidoscope-4.jpg' | prepend: site.baseurl }}" alt=""> 
+
+<img src="{{ '/assets/img/kaleidoscope-5.jpg' | prepend: site.baseurl }}" alt=""> 
+
+<img src="{{ '/assets/img/kaleidoscope-6.jpg' | prepend: site.baseurl }}" alt=""> 
+
+<img src="{{ '/assets/img/kaleidoscope-7.jpg' | prepend: site.baseurl }}" alt=""> 
+
+<img src="{{ '/assets/img/kaleidoscope-8.jpg' | prepend: site.baseurl }}" alt=""> 
+
+<img src="{{ '/assets/img/kaleidoscope-9.jpg' | prepend: site.baseurl }}" alt=""> 
