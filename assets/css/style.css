@@ -500,8 +500,8 @@ a:hover{
     -o-user-select:none;
     user-select:none;
     float:right;
-    line-height:2.5em;
-    margin-top:1em;
+    line-height:2em;
+    margin-top:1.6em;
     background-color:#2e8b57;
     border-radius:4px;
     padding:0 0.6em;
@@ -703,7 +703,6 @@ dd{
     right:0
 }
 .footer{
-    text-align:center;
     padding:2rem 0;
     clear:both;
     text-transform:uppercase;
@@ -789,6 +788,19 @@ dd{
 .posts li h3{
     margin:0 0 .5em;
     font-weight:700
+}
+.tags-post{
+	display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+.tags-post-title{
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.tags-post-meta{
+	float:right
 }
 /*@media (prefers-color-scheme:dark){
     body{
