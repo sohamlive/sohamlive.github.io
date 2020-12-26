@@ -2,7 +2,8 @@
 layout: post
 title:  "Thapar Ke Raste"
 date:   2018-03-03
-description: A collection of images taken in the Thapar campus in March 2018 during the Holi break along with friends, SS and SP. We among the only few remaining people at the campus as the rest took off to their home or onto a trek. 
+description: A collection of images taken in the Thapar campus in March 2018 during the Holi break along with friends, SS and SP. We among the only few remaining people at the campus as the rest took off to their home or onto a trek.
+tags:	Photography
 ---
 
 <p class="intro"><span class="dropcap">I</span> have this strange desire of being around less and less people. A group doesn’t suit me. I prefer solitude and some me-time. This desire doesn’t stem from the fact that I am doing something substantial in life. It’s far away from it. Just alone. I am not an artsy person who would make able use of the time. Just shy of being a introvert when it comes to communication. </p>

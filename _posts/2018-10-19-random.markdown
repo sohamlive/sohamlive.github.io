@@ -4,6 +4,7 @@ title: "Random"
 date:  2018-10-19
 image: random-cover.jpg
 description: A collection of images taken in Thapar University, Patiala during August - October 2018 time frame. No particular topic. 
+tags:	Random Photography
 ---
 
 Took these over the past month or so.

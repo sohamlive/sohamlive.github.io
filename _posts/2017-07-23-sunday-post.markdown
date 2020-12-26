@@ -3,6 +3,7 @@ layout: post
 title:  "A Sunday Post"
 date:   2017-07-23
 description: Musings on rainy Sunday afternoon which also happened to be my birthday.
+tags:	Random
 ---
 
 <p class="intro"><span class="dropcap">S</span>pending two months at home after five months of college with all its tests, mess food, hitting the attendance criteria and the last moment submissions is relaxing to be put in a very mild way. I wished to go as far away from home as possible to a different state for my college and I had got what I wanted. My wishes are crazy cause who wants to abandon the sweet hearth of home after spending 18 years? I wanted to. But my wish has led me to new experiences, a new culture and meeting new people and a completely different mindset. In the last 1 year of leaving home, I have matured (desperately hope so). Living far away is exciting. But the journey of coming back is what drives me nowadays. Never had I hoped that I would harbor such feelings. The strings which attached me to my place are no longer tied to me, yet it is the emotional spring of memories which keeps calling me back. </p>

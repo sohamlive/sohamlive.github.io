@@ -3,6 +3,7 @@ layout: post
 title:  "Random Assortment of Images - 2"
 date:   2017-12-31
 description: Part 2 of a collection of images taken in 2017 in various places.
+tags:	Long Photography
 ---
 
 <p class="intro"><span class="dropcap">I</span>t shouldn’t have taken long for this come up. I have got no particular excuses other than eating and sleeping and even more eating during my visits to home. December is always a fantastic time in Jamshedpur. There’s the warmth of the day, the cold of the night and the ever dependable spicy and absolutely heavenly (to those who have already been deceived in Delhi and Bombay specially) golgappas and littis for company. I almost forgot about the tilkuts, those sweet saucer shaped delicacies made from the sesame seeds. Food does take up a lot of time. </p>

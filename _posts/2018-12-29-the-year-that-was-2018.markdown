@@ -2,6 +2,7 @@
 layout: post
 title:  "The Year That Was - 2018"
 date:   2018-12-29
+tags:	Random
 ---
 
 <p class="intro"><span class="dropcap">T</span>ime for some it flies, for others it drags. For me, this year it was mostly the former. </p>

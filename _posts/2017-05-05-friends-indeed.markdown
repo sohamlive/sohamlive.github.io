@@ -3,6 +3,7 @@ layout: post
 title:  "Friend(s) Indeed"
 date:   2017-05-05
 description: One photograph perhaps describing everything about college. First year memory.
+tags:	Random Photography
 ---
 
 Date – 5th May, 2017 <br>

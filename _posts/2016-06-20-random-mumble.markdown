@@ -2,9 +2,10 @@
 layout: post
 title:	"Random Mumble"
 date:	2016-06-20
+tags:	Random
 ---
 
-<p class="intro"><span class="dropcap">S</span>o, I have been away from this space from far too long. This post is a kind of making up for the long absence from attending my blog. I believe that any worth wile post was last made sometime in the autumn of 2014. Well people I do have my reasons for that and perhaps the biggest one amongst them was disillusionment.</p>
+<p class="intro"><span class="dropcap">S</span>o, I have been away from this space from far too long. This post is a kind of making up for the long absence from attending my blog. I believe that any worth wile post was last made sometime in the autumn of 2014. Well people I do have my reasons for that and perhaps the biggest one amongst them was disillusionment.
 
 Now I think that maybe there is literally nobody reading my blog nowadays. Gone are the days when my friends would look up to me for posting an article, sometimes elevating them sometimes chiding and sometimes just churning out some randomized words about them. Oh! Those blissful days! How much I miss them today when I am alone typing this knowing that only I would be reading my thoughts. Yes it does make me sad. But am I disheartened? No. I did not create my blog to please anyone, it was made to give me a space to vent out my thoughts without anybody spying on them (read parents). It was the joy of being isolated, getting lost in the cyberspace and the feeling of being nobody that appealed to me.
 
@@ -18,7 +19,7 @@ But from 2013 to the May of 2016, life went downhill.
 
 I lost what I loved. I lost whom I admired. I lost the essence of what defined me.
 
-I performed poorly in academics. My already poor people skills were simply defenestrated out of myself. These 2 and half years was perhaps the most painful and mentally wrenching time for me. I became a recluse. Deactivated my Facebook account (it is still deactivated as of 20<sup>th</sup> June, 2016). Lost all self-confidence. Felt inferior to the world. I just wanted a place to hide. That inner flame in me which was full of vibrant hues, energy and hope was reduced to a tiny spark. I was destroyed badly. I believed that that there was no light at the end of tunnel.
+I performed poorly in academics. My already poor people skills were simply defenestrated out of myself. These 2 and half years was perhaps the most painful and mentally wrenching time for me. I became a recluse. Deactivated my Facebook account (it is still deactivated as of 20<supth</sup> June, 2016). Lost all self-confidence. Felt inferior to the world. I just wanted a place to hide. That inner flame in me which was full of vibrant hues, energy and hope was reduced to a tiny spark. I was destroyed badly. I believed that that there was no light at the end of tunnel.
 
 Today, the situation is somewhat not that bad but not that great either. I am sitting at home waiting to get some college and trying hard, really hard to fight the inner demons which weigh me down. Hope is rekindled, people.
 

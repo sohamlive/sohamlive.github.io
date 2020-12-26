@@ -3,7 +3,8 @@ layout: post
 title:  "Sophos & Tata Crucibles"
 date:   2018-02-04
 image: sophos-and-tata-crucibles-cover.jpg
-description: A very descriptive (bit more than necessary) with a shred of imprudence account of me and RD's Tata Crucible win in Chandigarh held at IISER, Mohali in January 2018. 
+description: A very descriptive (bit more than necessary) with a shred of imprudence account of me and RD's Tata Crucible win in Chandigarh held at IISER, Mohali in January 2018.
+tags:	Long
 ---
 
 **sophos:** *(verb) the act of being denied access to an online resource in Thapar due to botched up mentality of the administration;* <br>

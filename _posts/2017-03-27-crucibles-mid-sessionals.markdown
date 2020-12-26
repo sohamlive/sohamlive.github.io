@@ -4,6 +4,7 @@ title:  "Of Tata Crucibles and Mid Sessionals"
 date:   2017-03-27
 image: crucibles-mid-sessionals-cover.jpg
 description: Me and RD's first win at Tata Crucibles held at IISER Mohali, Chandigarh. We came runners up, beaten at the last question by our own college team. Quite something.
+tags:	Long
 ---
 
 February 2011, Jamshedpur – On an early bright late winter morning, with The Telegraph in my hand, the cup of tea and the necessary Marie biskoot I began to flip through the pages of the paper. In the local Jamshedpur pullout section (Yes, Telegraph was generous back in the 2011 era) I came across the news report of the city leg of Tata Crucible Campus Edition. Curiosity took over me. I never realized that there was a national level quiz for college too. A few teaser questions were also given and surprisingly I could answer one or two. I was happy that I could at least answer (read try) college level quiz question. And thus began my acquaintance with Tata Crucible.
