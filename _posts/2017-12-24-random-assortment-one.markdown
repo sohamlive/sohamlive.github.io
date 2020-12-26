@@ -3,7 +3,7 @@ layout: post
 title:  "Random Assortment of Images - 1"
 date:   2017-12-24
 description: Part 1 of a collection of images taken in 2017 in various places and my memories with them.
-tags:	Long Photography
+tags:	Photography
 ---
 
 <p class="intro"><span class="dropcap">T</span>he year is coming to a close and it suddenly dawned upon me that I have been seriously negligent towards my blog. At the beginning of the 2017, I had taken up a resolution – More blog posts and more reading and writing. Sigh!

@@ -2,10 +2,10 @@
 layout: post
 title:	"Random Mumble"
 date:	2016-06-20
-tags: Random
+tags:	Random
 ---
 
-<p class="intro"><span class="dropcap">S</span>o, I have been away from this space from far too long. This post is a kind of making up for the long absence from attending my blog. I believe that any worth wile post was last made sometime in the autumn of 2014. Well people I do have my reasons for that and perhaps the biggest one amongst them was disillusionment.</p>
+<p class="intro"><span class="dropcap">S</span>o, I have been away from this space from far too long. This post is a kind of making up for the long absence from attending my blog. I believe that any worth wile post was last made sometime in the autumn of 2014. Well, I do have my reasons for that and perhaps the biggest one amongst them was disillusionment.</p>
 
 Now I think that maybe there is literally nobody reading my blog nowadays. Gone are the days when my friends would look up to me for posting an article, sometimes elevating them sometimes chiding and sometimes just churning out some randomized words about them. Oh! Those blissful days! How much I miss them today when I am alone typing this knowing that only I would be reading my thoughts. Yes it does make me sad. But am I disheartened? No. I did not create my blog to please anyone, it was made to give me a space to vent out my thoughts without anybody spying on them (read parents). It was the joy of being isolated, getting lost in the cyberspace and the feeling of being nobody that appealed to me.
 

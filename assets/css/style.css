@@ -802,7 +802,11 @@ dd{
 }
 */
 .tags-post-meta{
-	float:right
+	float:right;
+	color:#555;
+}
+.tags-item{
+	margin:1em 0 1em;
 }
 .tags-item a{
 	text-decoration:none;
