@@ -19,7 +19,7 @@ But from 2013 to the May of 2016, life went downhill.
 
 I lost what I loved. I lost whom I admired. I lost the essence of what defined me.
 
-I performed poorly in academics. My already poor people skills were simply defenestrated out of myself. These 2 and half years was perhaps the most painful and mentally wrenching time for me. I became a recluse. Deactivated my Facebook account (it is still deactivated as of 20<supth</sup> June, 2016). Lost all self-confidence. Felt inferior to the world. I just wanted a place to hide. That inner flame in me which was full of vibrant hues, energy and hope was reduced to a tiny spark. I was destroyed badly. I believed that that there was no light at the end of tunnel.
+I performed poorly in academics. My already poor people skills were simply defenestrated out of myself. These 2 and half years was perhaps the most painful and mentally wrenching time for me. I became a recluse. Deactivated my Facebook account (it is still deactivated as of 20<sup>th</sup> June, 2016). Lost all self-confidence. Felt inferior to the world. I just wanted a place to hide. That inner flame in me which was full of vibrant hues, energy and hope was reduced to a tiny spark. I was destroyed badly. I believed that that there was no light at the end of tunnel.
 
 Today, the situation is somewhat not that bad but not that great either. I am sitting at home waiting to get some college and trying hard, really hard to fight the inner demons which weigh me down. Hope is rekindled, people.
 
