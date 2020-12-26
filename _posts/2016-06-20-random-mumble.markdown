@@ -2,7 +2,6 @@
 layout: post
 title:	"Random Mumble"
 date:	2016-06-20
-tags:	Long
 ---
 
 <p class="intro"><span class="dropcap">S</span>o, I have been away from this space from far too long. This post is a kind of making up for the long absence from attending my blog. I believe that any worth wile post was last made sometime in the autumn of 2014. Well people I do have my reasons for that and perhaps the biggest one amongst them was disillusionment.</p>
