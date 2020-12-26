@@ -1,7 +1,7 @@
 title: Side Lower
 description: Random Ramblings of SB
 
-url: http://localhost:4000/
+url: "https://sohamlive.github.io/"
 baseurl: ""
 paginate_path: "page:num/"
 permalink: ":year/:month/:day/:title"
