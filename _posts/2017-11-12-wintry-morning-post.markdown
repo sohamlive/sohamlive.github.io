@@ -3,7 +3,7 @@ layout: post
 title:  "A Wintry Morning Post"
 date:   2017-11-12
 image: wintry-morning-post-cover.jpg
-tags:	Long Photography
+tags:	Long
 ---
 
 <p class="intro"><span class="dropcap">I</span>t’s 8:50 AM and Microsoft’s Weather App is showing it is 15°C in Patiala, Punjab. And there’s Fog. My lips edged itself towards a smile. I love winters and I love fog! Never had I experienced such winters in Jamshedpur where people would rush to the Tibetan Market at the beginning of November when the temperature search on Google barely showed 17°. And there was no fog (never, except one or two days at the end of December).</p>
