@@ -3,8 +3,8 @@ description: Random Ramblings of SB
 
 url: https://sohamlive.github.io/
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:year/:month/:day/:title
+paginate_path: "page:num/"
+permalink: ":year/:month/:day/:title"
 
 # Header Option
 # header: large
