@@ -991,7 +991,7 @@ dd{
         float:right
     }
     .footer .copy{
-        float:left
+        /*float:left*/
     }
     .footer .container{
         padding:1rem 0;
