@@ -3,7 +3,7 @@ layout: post
 title:  "Affinity for Emails"
 date:   2017-11-29
 description: Wistful longing for letters and my new found love for emails.
-tags:	Random
+tags:	Life,etc
 ---
 
 <p class="intro"><span class="dropcap">I</span> remember it was the December of 2009 when I created my first email address in Gmail in a small nondescript café housed in a ground floor flat in a mostly residential area of an equally small town in North Bengal (which has just 2/3 trains passing through it in the entire day even now). Just 15 computers in a cramped up small room. Going by the young crowd moving in and out of the room, it could have been easily mistaken for a tuition class. The resemblance was too strong. School/College junta with bags drooping over their shoulder – heavy from the books which were supposed to be opened, the occasional banter and the jittery feeling whenever the exam results were out. The café didn’t have a name. The place was anything but for studying. </p>

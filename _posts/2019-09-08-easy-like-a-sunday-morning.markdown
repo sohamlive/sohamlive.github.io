@@ -2,7 +2,7 @@
 layout: post
 title:  "Easy Like A Sunday Morning"
 date:	2019-09-08
-tags:	Random
+tags:	Life,etc
 ---
 
 <p class="intro"><span class="dropcap">T</span>he past few weeks were different. Unexpected. But this article below, took me on a whirlwind tour back to my childhood looking through hazy, nostalgic glimpses of my memory. Thursdays meant TeleKids an TeleKids meant Feluda illustrated. I already feel like old typing this. Diminishing earnings from subscriptions has led Telegraph to alter its weekly supplicants, the new ones often a shadow in comparison to its earlier self.</p>
