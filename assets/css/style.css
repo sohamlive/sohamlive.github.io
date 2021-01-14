@@ -194,6 +194,12 @@ body .intro{
     font-size:1.375em;
     line-height:1.13636364
 }
+.h3,h3 a{
+	text-decoration:none
+}
+.h3,h3 a:hover{
+	text-decoration:underline
+}
 @media (min-width:43.75em){
     .h3,h3{
         font-size:1.5em;
@@ -434,11 +440,11 @@ body p,body ul{
     margin:0 0 2rem
 }
 ::-moz-selection{
-    background:#2e8b57;
+    background:#4b2732;/*#2e8b57*/
     color:#fff
 }
 ::selection{
-    background:#2e8b57;
+    background:#4b2732;/*#2e8b57*/
     color:#fff
 }
 audio,iframe,img,object,video{
@@ -451,10 +457,11 @@ audio,iframe,img,object,video{
     margin-right:auto
 }
 a{
-    color:#2e8b57
+    color:#bd3952; /* #2e8b57 */
+	
 }
 a:hover{
-    color:#1b5233
+    color:#fe7c59 /* #1b5233 */
 }
 .nav-collapse{
     z-index:1
@@ -608,6 +615,13 @@ dd{
 }
 .post p{
     text-align:justify;
+}
+.post p a{
+	text-decoration:none
+}
+
+.post p a:hover{
+	text-decoration:underline
 }
 .post figure figcaption{
     text-align:center;
