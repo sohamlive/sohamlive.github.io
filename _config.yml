@@ -1,7 +1,7 @@
 title: Side Lower
 description: Random Ramblings of SB
 
-url: "https://www.sidelower.in/"
+url: "https://www.sidelower.in"
 baseurl: ""
 paginate_path: "page:num/"
 permalink: ":year/:month/:day/:title"
