@@ -647,7 +647,7 @@ dd{
     clear:both
 }
 .post .dropcap{
-    color:#2e8b57;
+    color:#1C7484; /* #2e8b57 (green) */
     margin-right:.45rem
 }
 .post .featuredImage{
