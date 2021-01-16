@@ -457,11 +457,11 @@ audio,iframe,img,object,video{
     margin-right:auto
 }
 a{
-    color:#bd3952; /* #2e8b57 */
+    color:#1C7484; /*#bd3952 (deep coral) #2e8b57 (green) */
 	
 }
 a:hover{
-    color:#fe7c59 /* #1b5233 */
+    color:#5B9FBD; /*#fe7c59 (coral) #1b5233 (dark green) */
 }
 .nav-collapse{
     z-index:1
