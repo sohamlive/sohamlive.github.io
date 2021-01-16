@@ -14,6 +14,6 @@ title: About Side Lower
 	
 	<p> All images in this blog are taken by me unless specified otherwise. The cover image is taken by <a href="https://unsplash.com/@pkmfaris">Faris Mohammed</a>. This site is powered by <a href="https://jekyllrb.com/">Jekyll</a> using <a href="https://brianmaierjr.com/long-haul/">Long Haul</a> by <a href="https://brianmaierjr.com/">Brian Maier Jr</a>.</p>
 	
-	<p> I can be reached at <small><code>soham[dot]live[at]gmail[dot]com</code></small></p>
+	<p> I can be reached at <small><code>sb[at]sidelower[dot]in</code></small></p>
 	
 </div>
