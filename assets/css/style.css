@@ -894,7 +894,7 @@ dd{
         padding:0
     }
     #home .pageTitle,#home .pagination,#home .posts{
-        width:75%;
+        width:80%; /*75%*/
         float:none;
         margin:0 auto 1.5em
     }
@@ -968,7 +968,7 @@ dd{
         display:none
     }
     .post .pageTitle,.post dl,.post h1,.post h2,.post h3,.post h4,.post h5,.post h6,.post ol,.post p,.post ul{
-        width:75%;
+        width:80%; /*75%*/
         float:none;
         margin:0 auto 2rem
     }
