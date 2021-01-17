@@ -1,6 +1,6 @@
 /*! normalize.css v6.0.0 | MIT License | github.com/necolas/normalize.css */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,800;1,300&display=swap');
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
+/*@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);*/
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
 html{
@@ -225,7 +225,7 @@ blockquote{
     font-size:1.25em;
     line-height:1.25;
     padding:0;
-    font-family:"Crimson Text",PT Serif,Georgia,Times,serif;
+    font-family:"Crimson Text",Georgia,Times,serif;
     font-style:italic;
 }
 @media (min-width:43.75em){
@@ -429,7 +429,7 @@ html{
     box-sizing:inherit
 }
 body{
-    font-family:"Crimson Text",PT Serif,Georgia,Times,serif;
+    font-family:"Crimson Text",Georgia,Times,serif;
     line-height:1.75;
     font-size:112.5%;
     color:#111;
