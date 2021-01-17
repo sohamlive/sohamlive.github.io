@@ -5,6 +5,13 @@
     <meta name="description" content="">
     <title>{{ page.title }}</title>
 
+	<!-- General Meta -->
+	{%- if page.description -%}
+      <meta name="description" content="{{ page.description }}" >
+    {%- else -%}
+      <meta name="description" content="{{ site.postdescription }}" >
+    {%- endif -%}
+	
     <!-- Open Graph Meta -->
     <meta content="{{ site.title }}" property="og:site_name">
     {%- if page.title -%}
@@ -20,7 +27,7 @@
     {%- if page.description -%}
       <meta content="{{ page.description }}" property="og:description">
     {%- else -%}
-      <meta content="{{ site.description }}" property="og:description">
+      <meta content="{{ site.postdescription }}" property="og:description">
     {%- endif -%}
     {%- if page.url -%}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
@@ -32,7 +39,7 @@
     {%- if page.image -%}
       <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
     {%- else -%}
-      <meta content="{{ '/assets/img/touring.jpg' | prepend: site.url }}" property="og:image">
+      <meta content="{{ '.../img/cover-2-3.jpg' | prepend: site.url }}" property="og:image">
     {%- endif -%}
 
     <!-- Twitter Cards -->
