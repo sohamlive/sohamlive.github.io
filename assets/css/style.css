@@ -850,6 +850,12 @@ dd{
 .tags-clouds a:hover, .tags-clouds a:active {
     background: rgba(0,0,0,0.1);
 }
+a.tags-post{
+	text-decoration:none !important
+}
+a.tags-post:hover{
+	text-decoration:underline !important
+}
 /*@media (prefers-color-scheme:dark){
     body{
         background-color:#000
