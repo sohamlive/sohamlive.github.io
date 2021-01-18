@@ -3,7 +3,7 @@ layout:	post
 title:	"The Intercity to Delhi"
 date:	2019-10-26
 image:	intercity-to-delhi-cover.jpg
-tags:	Long Travel
+tags:	Travel
 ---
 
 <p class="intro"><span class="dropcap">A</span>t 7 in the morning in late October, when Patiala was still sleeping, enveloped in the early morning fog, the few people outside could be seen with shawls trying to beat the mild chill of the Northern Plains, when the streets were still quiet and the harmonious surroundings were not yet invaded by the diesel autos, the few strays still too sleepy to register irritation at the person who trespassed into their territory, Patiala Railway Station was a sharp departure from the above.</p>
