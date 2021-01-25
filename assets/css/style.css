@@ -617,11 +617,11 @@ dd{
     text-align:justify;
 }
 .post p a{
-	text-decoration:underline
+	text-decoration:none
 }
 
 .post p a:hover{
-	text-decoration:none
+	text-decoration:underline
 }
 .post figure figcaption{
     text-align:center;

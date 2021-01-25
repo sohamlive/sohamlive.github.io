@@ -8,9 +8,7 @@ title: About Side Lower
 	
 	<!--<img src="{{ '/assets/img/cover-2-3.jpg' | prepend: site.baseurl }}" alt=""> <br>-->
 	
-	<p class="intro">Hi!</p>
-	
-	<p> I am SB from Jamshedpur. This blog is my third effort at making my own space on the internet. What started in 2012 from Blogger, moved to Wordpress in late 2012 and now this place. An Electrical Engineer by degree, I can be found mostly reading up about railways, history, cities, general fiction or just travelling on trains which has been my fixation from a young age. Hence, the name of this blog. Interested in quizzing and similar pursuits of knowledge.  </p>
+	<p> I am SB from Jamshedpur. This blog is my third effort at making my own space on the internet. What started in 2012 from Blogger, moved to Wordpress in late 2012 and now this place. An engineer by education, I can be found mostly reading up about railways, history, cities, general fiction or just travelling on trains which has been my fixation from a young age. Hence, the name of this blog. Interested in quizzing, writing letters, and sending postcards (<a href="https://www.postcrossing.com/" target="_blank">Postcrossing</a>).</p>
 	
 	<p> I can be reached at <small><code>sb[at]sidelower[dot]in</code></small></p>
 	
