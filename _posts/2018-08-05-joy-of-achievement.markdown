@@ -4,7 +4,7 @@ title:  "The Joy of Achievement"
 date:   2018-08-05
 image: joy-of-achievement-cover.png
 description: A not so short account of me and RD's Tata Crucible journey from Chandigarh in January 2018 to Bombay in April 2018. Lots of interesting memories and some cherished months. If there is truly an achievement in my life, this would come foremost. I think this would resonate with RD too. Also, this post contains my last known public photo. Quite something.
-tags:	Long
+tags:	Life,etc
 ---
 
 ### April 2018
