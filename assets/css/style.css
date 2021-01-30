@@ -458,10 +458,12 @@ audio,iframe,img,object,video{
 }
 a{
     color:#1C7484; /*#bd3952 (deep coral) #2e8b57 (green) */
+	text-decoration:none;
 	
 }
 a:hover{
     color:#5B9FBD; /*#fe7c59 (coral) #1b5233 (dark green) */
+	text-decoration:underline;
 }
 .nav-collapse{
     z-index:1

@@ -3,7 +3,7 @@ layout:	post
 title:	"Calcutta/Kolkata"
 date:	2021-01-26
 tags:	Travel
-description: Spent a few days in the last week of 2020 in Calcutta and this a not so short email I sent to a friend earlier this month on my travel to Calcutta, detailing my experiences in the city, the places and a deep lament at the present affairs. 
+description: Spent a few days in the last week of 2020 in Calcutta and this an email I sent to a friend earlier this month (reproduced here as sent) on my travel to Calcutta, detailing my experiences in the city, and of the places been to. 
 ---
 
 <p class="intro"><span class="dropcap">M</span>y primary motive to visit was to explore the museums, heritage buildings and walk through streets entrenched in popular culture. Have visited College Street earlier, hence skipped it. The Indian Coffee House is yet to be seen and felt and taken in but that will happen some other time.</p>
