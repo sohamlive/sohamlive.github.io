@@ -1,0 +1,29 @@
+---
+layout:	post
+title:	"Petunias"
+date:	2021-02-06
+tags:	Photography
+description: Winter Garden in Jamshedpur during December 2020 -  February 2021
+---
+
+Petunias and marigold growing in our garden during the winters of December 2020 - February 2021. 
+
+<figure>
+	<img src="{{ '/assets/img/petunias-1.png' | prepend: site.baseurl }}" alt="White Petunia"> 
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/petunias-2.png' | prepend: site.baseurl }}" alt="Purple Petunia"> 
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/petunias-3.png' | prepend: site.baseurl }}" alt="White Petunia"> 
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/petunias-4.png' | prepend: site.baseurl }}" alt="White Petunia"> 
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/petunias-and-marigold.png' | prepend: site.baseurl }}" alt="Orange Marigold"> 
+</figure>
