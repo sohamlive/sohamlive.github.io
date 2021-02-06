@@ -9,7 +9,13 @@ description: Personal blog of SB. Some writings here and there.
   <ul class="posts noList">
     {%- for post in paginator.posts -%}
       <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }} &nbsp; | &nbsp; {{ post.content | number_of_words | divided_by:180 }} Minute Read </span>
+		{%- assign time_to_read = post.content | number_of_words | divided_by:180 -%}
+  		{%- if time_to_read == 0 -%}
+    		{%- assign time_to_read = 1 -%}
+  		{%- else -%}
+			{%- assign time_to_read = time_to_read | plus: 1 -%}
+  		{%- endif -%}
+        <span class="date">{{ post.date | date: '%B %d, %Y' }} &nbsp; | &nbsp; {{ time_to_read }} Minute Read </span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p>{%- if post.description -%}{{ post.description }}{%- else -%}{{ post.excerpt | strip_html }}{%- endif -%}</p>
       </li>

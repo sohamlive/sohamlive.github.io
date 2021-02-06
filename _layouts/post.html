@@ -8,7 +8,13 @@ layout: default
       </div>
   {%- endif -%}
   <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} &nbsp; | &nbsp; <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+  {%- assign time_to_read = page.content | number_of_words | divided_by:180 -%}
+  {%- if time_to_read == 0 -%}
+    {%- assign time_to_read = 1 -%}
+  {%- else -%}
+	{%- assign time_to_read = time_to_read | plus: 1 -%}
+  {%- endif -%}
+  <p class="meta">{{ page.date | date: '%B %d, %Y' }} &nbsp; | &nbsp; <span class="time">{{ time_to_read }}</span> Minute Read</p>
   
   {{ content }}
 
