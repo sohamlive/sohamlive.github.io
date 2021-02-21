@@ -8,11 +8,11 @@ description: Spent a few days in the last week of 2020 in Calcutta and this an e
 
 <p class="intro"><span class="dropcap">M</span>y primary motive to visit was to explore the museums, heritage buildings and walk through streets entrenched in popular culture. Have visited College Street earlier, hence skipped it. The Indian Coffee House is yet to be seen and felt and taken in but that will happen some other time.</p>
 
-Park Street was my first port of call. In 2016 I was at the LIC Guesthouse within Esplanade Mansion. Grand architecture now gone to seed, yet its brilliance shines sometimes. The entrance was facing Russel Street which goes on to join the Park Street. There is a Chinese Laundry shop at the ground floor facing Russel Street with a very distinct interior and it is still run by an elderly Chinese. On the opposite side is the headquarters of ITC. Imposing but something different than modern headquarters since it is not made of only steel and glass. 
+Park Street was my first port of call. In 2016 I was at the LIC Guesthouse located inside Queen's Mansion. Grand architecture now gone to seed, yet its brilliance shines sometimes. The entrance was facing Russel Street which goes on to join the Park Street. There is a Chinese Laundry shop at the ground floor facing Russel Street with a very distinct interior and it is still run by an elderly Chinese. On the opposite side is the headquarters of ITC. Imposing but something different than modern headquarters since it is not made of only steel and glass. 
 
 <figure>
-	<img src="{{ '/assets/img/calcutta2020-1.jpg' | prepend: site.baseurl }}" alt="Esplanade Mansion, Kolkata"> 
-	<figcaption>Esplanade Mansion from Oxford Bookstore</figcaption>
+	<img src="{{ '/assets/img/calcutta2020-1.jpg' | prepend: site.baseurl }}" alt="Queen's Mansion, Kolkata"> 
+	<figcaption>Queen's Mansion from Oxford Bookstore</figcaption>
 </figure>
 
 Went to the Oxford Bookstore since I had heard about it in school from my English teacher. The interior was very Christmassy - fairy lights, books stacked up to look like a Christmas tree and carols on the speakers. Spent quite some time looking at books. Didn't find much variety to be honest. Picked up two - A Murder in Shimla as a quick and light read during my train journey later in January and one classic, The Guide by R.K. Narayan. Read it in school but sort of hurried through it. Want to understand it better. Also, two sets of postcards on the city and one small pocket diary which caught my eye.
