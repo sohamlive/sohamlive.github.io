@@ -1,0 +1,150 @@
+I"[<div class="post">
+    <h1 class="pageTitle">Tags</h1>
+    <!--
+    <div class="tags-header-line"></div>
+  </div>-->
+  <div class="tags-clouds">
+    
+    <a href="#Life,etc">Life,etc</a>
+    
+    <a href="#Photography">Photography</a>
+    
+    <a href="#Travel">Travel</a>
+    
+  </div>
+  
+  <div class="tags-item" id="Life,etc">
+    <h3 class="tags-item-label">
+    <svg class="feather feather-tag" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+      <line x1="7" y1="7" x2="7.01" y2="7"></line>
+    </svg>
+    Life,etc
+    </h3>
+    
+    <p><a class="tags-post" href="/2021/01/30/books-read-2020">Books Read in 2020<span class="tags-post-meta"><time datetime="2021-01-30 00:00:00 +0530">Jan 30, 2021</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2019/09/08/easy-like-a-sunday-morning">Easy Like A Sunday Morning<span class="tags-post-meta"><time datetime="2019-09-08 00:00:00 +0530">Sep 08, 2019</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2019/08/28/why">Why?<span class="tags-post-meta"><time datetime="2019-08-28 00:00:00 +0530">Aug 28, 2019</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2019/03/31/i-got-mail">I've got Mail!<span class="tags-post-meta"><time datetime="2019-03-31 00:00:00 +0530">Mar 31, 2019</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2019/01/02/songs-that-defined-my-2018">Songs that defined my 2018<span class="tags-post-meta"><time datetime="2019-01-02 00:00:00 +0530">Jan 02, 2019</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2018/12/29/the-year-that-was-2018">The Year That Was - 2018<span class="tags-post-meta"><time datetime="2018-12-29 00:00:00 +0530">Dec 29, 2018</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2018/10/22/ye-jo-khushi">Ye Jo Khushi<span class="tags-post-meta"><time datetime="2018-10-22 00:00:00 +0530">Oct 22, 2018</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2018/08/05/joy-of-achievement">The Joy of Achievement<span class="tags-post-meta"><time datetime="2018-08-05 00:00:00 +0530">Aug 05, 2018</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2018/02/04/sophos-and-tata-crucibles">Sophos &amp; Tata Crucibles<span class="tags-post-meta"><time datetime="2018-02-04 00:00:00 +0530">Feb 04, 2018</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/11/29/affinity-for-emails">Affinity for Emails<span class="tags-post-meta"><time datetime="2017-11-29 00:00:00 +0530">Nov 29, 2017</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/11/12/wintry-morning-post">A Wintry Morning Post<span class="tags-post-meta"><time datetime="2017-11-12 00:00:00 +0530">Nov 12, 2017</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/07/23/sunday-post">A Sunday Post<span class="tags-post-meta"><time datetime="2017-07-23 00:00:00 +0530">Jul 23, 2017</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/05/05/friends-indeed">Friend(s) Indeed<span class="tags-post-meta"><time datetime="2017-05-05 00:00:00 +0530">May 05, 2017</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/03/27/crucibles-mid-sessionals">Of Tata Crucibles and Mid Sessionals<span class="tags-post-meta"><time datetime="2017-03-27 00:00:00 +0530">Mar 27, 2017</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/01/11/back-from-hibernation">Back From Hibernation<span class="tags-post-meta"><time datetime="2017-01-11 00:00:00 +0530">Jan 11, 2017</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2016/06/20/random-mumble">Random Mumble<span class="tags-post-meta"><time datetime="2016-06-20 00:00:00 +0530">Jun 20, 2016</time></span></a></p>
+        
+    
+    
+  </div>
+  
+  <div class="tags-item" id="Photography">
+    <h3 class="tags-item-label">
+    <svg class="feather feather-tag" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+      <line x1="7" y1="7" x2="7.01" y2="7"></line>
+    </svg>
+    Photography
+    </h3>
+    
+    <p><a class="tags-post" href="/2021/02/06/petunias">Petunias<span class="tags-post-meta"><time datetime="2021-02-06 00:00:00 +0530">Feb 06, 2021</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2018/10/19/random">Random<span class="tags-post-meta"><time datetime="2018-10-19 00:00:00 +0530">Oct 19, 2018</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2018/03/03/thapar-ke-raste">Thapar Ke Raste<span class="tags-post-meta"><time datetime="2018-03-03 00:00:00 +0530">Mar 03, 2018</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/12/31/random-assortment-two">Random Assortment of Images - 2<span class="tags-post-meta"><time datetime="2017-12-31 00:00:00 +0530">Dec 31, 2017</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/12/24/random-assortment-one">Random Assortment of Images - 1<span class="tags-post-meta"><time datetime="2017-12-24 00:00:00 +0530">Dec 24, 2017</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2017/11/16/kaleidoscope-2017">Kaleidoscope 2017<span class="tags-post-meta"><time datetime="2017-11-16 00:00:00 +0530">Nov 16, 2017</time></span></a></p>
+        
+    
+    
+  </div>
+  
+  <div class="tags-item" id="Travel">
+    <h3 class="tags-item-label">
+    <svg class="feather feather-tag" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+      <line x1="7" y1="7" x2="7.01" y2="7"></line>
+    </svg>
+    Travel
+    </h3>
+    
+    <p><a class="tags-post" href="/2021/01/26/calcutta-kolkata">Calcutta/Kolkata<span class="tags-post-meta"><time datetime="2021-01-26 00:00:00 +0530">Jan 26, 2021</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2020/03/28/two-cities">Two Cities<span class="tags-post-meta"><time datetime="2020-03-28 00:00:00 +0530">Mar 28, 2020</time></span></a></p>
+        
+    
+    
+    <p><a class="tags-post" href="/2019/10/26/intercity-to-delhi">The Intercity to Delhi<span class="tags-post-meta"><time datetime="2019-10-26 00:00:00 +0530">Oct 26, 2019</time></span></a></p>
+        
+    
+    
+  </div>
+  
+</div>
+:ET
