@@ -7,7 +7,7 @@
 	<!-- General Meta -->
 	{% if page.description -%}
       <meta name="description" content="{{ page.description }}">
-    {% else %}
+    {% else -%}
       <meta name="description" content="{{ site.postdescription }}">
     {% endif -%}
 	
@@ -15,20 +15,20 @@
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title -%}
     	<meta content="{{ page.title }}" property="og:title">
-    {% else %}
+    {% else -%}
       	<meta content="{{ site.title }}" property="og:title">
     {% endif -%}
 
     {% if page.title -%}
       	<meta content="article" property="og:type">
-    {% else %}
+    {% else -%}
       	<meta content="website" property="og:type">
     {% endif -%}
 
     {% if page.description -%}
-      	<meta content="{{ page.description }}" property="og:description">
-    {% else %}
-      <meta content="{{ site.postdescription }}" property="og:description">
+    <meta content="{{ page.description }}" property="og:description">
+    {% else -%}
+    <meta content="{{ site.postdescription }}" property="og:description">
     {% endif -%}
 
     {% if page.url -%}
@@ -54,22 +54,22 @@
     {% endif -%}
     {% if page.title -%}
       <meta name="twitter:title" content="{{ page.title }}">
-    {% else %}
+    {% else -%}
       <meta name="twitter:title" content="{{ site.title }}">
     {% endif -%}
     {%- if page.url -%}
-      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     {% endif -%}
     {% if page.description -%}
-      <meta name="twitter:description" content="{{ page.description }}">
-    {% else %}
-      <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    {% else -%}
+    <meta name="twitter:description" content="{{ site.description }}">
     {% endif -%}
     {%- if page.image -%}
     <meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
     {%- else -%}
     <meta name="twitter:image:src" content="{{ '/assets/img/cover-2-3.jpg' | prepend: site.url }}">
-    {% endif -%}
+    {% endif %}
 
     <script type="application/ld+json">
 	{
@@ -85,14 +85,22 @@
 	  {% endif -%}
 	  {% if page.description -%}
 	  "description": {{ page.description | jsonify }},
-	  {% else %}
+	  {% else -%}
 	  "description": {{ site.postdescription | jsonify }},
 	  {%- endif -%}
 	  "datePublished": {{ page.date | jsonify }},
 	  "mainEntityOfPage": {
 	    "@type": "WebPage",
 	    "@id": "{{ site.url }}{{ page.url }}"
-	  }
+	  },
+	  "image": {
+	    "@type": "ImageObject",
+	    {% if page.image -%}
+	    "url": "{{ site.url }}/assets/img/{{ page.image }}"
+	    {%- else -%}
+	    "url": "{{ '/assets/img/cover-2-3.jpg' | prepend: site.url }}"
+	    {%- endif -%}
+  }
 	}
 	</script>
 
