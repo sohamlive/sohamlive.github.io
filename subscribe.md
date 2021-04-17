@@ -1,16 +1,16 @@
 ---
 layout: default
-title: About Side Lower
+title: Subscribe to Side Lower
 ---
 
 <div class="post">
 	<h1 class="pageTitle">Subscribe</h1>
 	
 	<!-- Begin Mailchimp Signup Form -->
-		<div id="mc_embed_signup" style="margin-left:14.5em">
+		<div id="mc_embed_signup" style="max-width:300px; margin:0 auto">
 			<form action="https://sidelower.us1.list-manage.com/subscribe/post?u=c42db40d0f098621788e65191&amp;id=6835fbe445" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			    <div id="mc_embed_signup_scroll">
-				    <div class="mc-field-group">
+				    <div class="mc-field-group" >
 						<label for="mce-NAME">Name <small>(required)</small></label>
 						<input type="text" value="" name="NAME" class="" id="mce-NAME">
 					</div>
