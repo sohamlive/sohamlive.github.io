@@ -650,7 +650,13 @@ dd{
 }
 .post .dropcap{
     color:#1C7484; /* #2e8b57 (green) */
-    margin-right:.45rem
+    margin-right:.45rem;
+    float: left; 
+    padding: 0px; 
+    font-size: 90px;
+    line-height: 0px;
+    margin-top: 40px;
+    height: 35px;
 }
 .post .featuredImage{
     position:relative;
