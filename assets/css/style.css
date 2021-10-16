@@ -27,7 +27,9 @@ hr{
     overflow:visible;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    width:50%
+    width:50%;
+    margin-top: -10px;
+    margin-bottom: 20px;
 }
 pre{
     font-family:monospace,monospace;
@@ -587,7 +589,7 @@ dd{
     margin:2.5em 0;
     padding:0;
     line-height:1.8;
-    position:relative;
+    c
     text-align:center;
 }
 .post blockquote:before{
@@ -604,6 +606,16 @@ dd{
 }
 .post blockquote:after{
     bottom:-1.25em
+}
+.post quote{
+    font-size:1.25em;
+    line-height:1.25;
+    padding:0;
+    font-family:"Crimson Text",Georgia,Times,serif;
+    font-style:italic;
+    margin:2.5em auto;
+    width: 250px;
+    display: block;
 }
 .post .meta{
     text-align:center;
@@ -863,6 +875,26 @@ a.tags-post{
 }
 a.tags-post:hover{
 	text-decoration:underline !important
+}
+/* Styles for displaying tags in posts */
+.post .post-tags {
+    text-align: center;
+    font-family: Open Sans,Helvetica,Arial,sans-serif;
+    font-weight:300;
+    font-size:0.9em;
+    margin:-1em 0 2em;
+}
+.post .post-tags a {
+    display: inline-block;
+    margin: 0 0.1rem 0.2rem;
+    padding: 0.2rem 0.5rem;
+    background: rgba(0,0,0,0.05);
+    border-radius: 5px;
+    color: #555;
+    text-decoration: none;
+}
+.post-tags a:hover, .post-tags a:active {
+    background: rgba(0,0,0,0.1);
 }
 /*@media (prefers-color-scheme:dark){
     body{

@@ -15,6 +15,7 @@ layout: default
 	{%- assign time_to_read = time_to_read | plus: 1 -%}
   {%- endif -%}
   <p class="meta">{{ page.date | date: '%B %d, %Y' }} &nbsp; | &nbsp; <span class="time">{{ time_to_read }}</span> Minute Read</p>
+  <div class="post-tags"><a href="{{site.baseurl}}/tags#{{ page.tags }}" title="View other posts filed under {{ page.tags }}">{{page.tags}}</a></div>
   
   {{ content }}
 
