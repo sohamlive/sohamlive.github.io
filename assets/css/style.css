@@ -524,7 +524,8 @@ a:hover{
 }
 .nav-toggle:hover{
     color:#fff;
-    background-color:#21653f
+    background-color:#21653f;
+    text-decoration: none;
 }
 .noList{
     list-style:none;
