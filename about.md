@@ -8,7 +8,7 @@ title: About Side Lower
 	
 	<!--<img src="{{ '/assets/img/cover-2-3.jpg' | prepend: site.baseurl }}" alt=""> <br>-->
 
-	<p style="color:#227daf"><small><b>Update - </b>I am currently a student at XLRI Jamshedpur where I am (trying) meeting <b>sacrosanct</b> deadlines of submissions with 4 hours of sleep and have not updated this blog for a long time. Hopefully, after October.</small></p>
+	<p><b>Update - </b>I am currently a student at XLRI Jamshedpur where I am (trying) meeting <b><i>sacrosanct</i></b> deadlines of submissions and have not updated this blog for a long time. Hopefully, after October.</p>
 	
 	<p> I am Soham from Jamshedpur, my Jampot. This blog is my third effort at making my own space on the internet. This blog started in 2012 from Blogger, moved to Wordpress in late 2012 and now this place. I haven't moved any of my old posts prior to 2016 to this platform because some things are best left as it is, in the past. A curious might perhaps dig deep through the internet to find my old blog but this action is not recommended by me. </p>
 	
