@@ -1,0 +1,178 @@
+---
+layout:	post
+title:	"Benares"
+date:	2023-12-31
+tags:	Travel
+image:	202312-benares-cover.png
+description: Benares during the winter of 2023. Went on a small trip to this town. My days were mostly spent in and around the old parts of the city. An account. Mostly photos and some writeup here and there.
+---
+
+<p class="intro"><span class="dropcap">A</span>s the train crossed Mughalsarai, the sound of the wheels changed from a rapid staccato to a deep low hum. In the early winter morning, Ganges from the railway bridge looked like a body of grey covered in fog with the sight of some ghat in the distance. The train trundles past the stations of Vyasnagar and Kashi in a leisurely pace. It's winter in Northern India and trains being late are accepted - Varanasi Cantonment is only 15 minutes away, train delayed by 1 hour 12 minutes.</p>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-01.png' | prepend: site.baseurl }}" alt="Varanasi Cantonment Station"> 
+	<figcaption>Varanasi Cantonment Junction, early morning in December</figcaption>
+</figure>
+
+Many passengers as soon as they made their way to the wide plaza of the station entrance, bowed, with hands folded towards the main tower of the station building. I looked towards the source. The entire station has been given the look of a temple with the top of the main tower shaped like a miniature temple. A wide circular disc with spokes made the backdrop.
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-02.png' | prepend: site.baseurl }}" alt="Shops in Old Benares"> 
+	<figcaption>Shops in Old Benares</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-03.png' | prepend: site.baseurl }}" alt="Vishwanath Gali"> 
+	<figcaption>Shops in Vishwanath Gali, Old Benares</figcaption>
+</figure>
+
+Benares is an old, pious city. Its ancientness is made distinct by its narrow alleyways, cobbled streets as one moves nearer to the Ghats. Rundown buildings from the previous century still finds habitants, temples in almost every street and the rows of shops which never seem to end. It felt as if the entire city was one huge bazaar. Perhaps I am exaggerating from a tourist point of view but travelling through the city, it never felt as if I was not in a commotion of a bazaar. The sheer force of humans, rickshaws and vehicles in close proximity barely moving faster than 20 kmph, often within a few centimeters of each other is just a mishap waiting to happen. But it never does. 
+
+Divine intervention? Why not? After all it is Benares.
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-04.png' | prepend: site.baseurl }}" alt="Alleyways of Benares"> 
+	<figcaption>Alleyways of Benares</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-05.png' | prepend: site.baseurl }}" alt="Silk shop in Vishwanath Gali, Benares"> 
+	<figcaption>Silk shop in Vishwanath Gali, Benares</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-06.png' | prepend: site.baseurl }}" alt="Evening in Dashwamedh Road, Benares"> 
+	<figcaption>Evening in Dashwamedh Road, Benares</figcaption>
+</figure>
+
+What has attracted thousands of pilgrims to this city centuries after centuries is something which needs time for me to sink in. There is nothing 'beautiful' about the City. Over commercialization of religiousity, litter thrown on streets, the incessant flow of unending crowds, hawkers, saree salesmen prodding you to visit their authentic Benarasi silk stores in one of the narrow alleys(one even offered me 3 pure silk sarees for 2000), <i>malaiyo</i> and chat sellers in every corner - there was no break from the commotion that is Benares. I wanted to escape from my highly demanding coursework (but poorly executed by me) over the past 6 months. Benares was supposed to be my 'slow life'. 
+
+Near Godowlia Chowk, an American, almost balding, red in face, in a tee and cargo shorts with a heavy backpack and slingbag across his shoulder was recording, taking photos of this madness. A little futher near the Vishwanath Gali, there is a temple located high above the ground and accessible through stairs which is found between a food outlet and a saree shop. At 11:30 in the morning, there went a collective ringing of the many temple bells and filled the entire stretch with echoes of its gong. A lone Japanese who was making his way to the Ghats stopped and turned towards this. From a distance, I could see his expressions change from a flustered to a more calm and serene state. He went to the steps, folded his hands and bowed. <i> Benares </i>.
+
+Dashwamedh Road leads to the Ghats as do hundreds of unnamed narrow, cobbled streets. The alleyways of Benares holds stories and myths and shops which trace their roots to the 18th and 19th century. Shops barely larger than a train compartment (sometimes even lesser) selling those epynomous Benarasi sarees, pure ghee kachouris and sweets. The merchants of Benares came from the erstwhile Bengal, Rajputana and Madras region and settled here. The Jaiswals, Saos and Ayyapas have their signboards in all three languages. Sometimes in Burmese and Korean. 
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-07.png' | prepend: site.baseurl }}" alt="Steps of Meer Ghat"> 
+	<figcaption>Steps of Meer Ghat</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-08.png' | prepend: site.baseurl }}" alt="Meer Ghat, Benares"> 
+	<figcaption>Meer Ghat, Benares</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-09.png' | prepend: site.baseurl }}" alt="View from boat towards the Ghats"> 
+	<figcaption>View from boat towards the Ghats</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-10.png' | prepend: site.baseurl }}" alt="Ganga Aarti, Ghats"> 
+	<figcaption>Ganga Aarti, Ghats</figcaption>
+</figure>
+
+The Ghats of Benares hold stories aplenty. Each guide offering their services to tell you the stories and myths. Boatsmen pitching their boating services, sadhus sitting under two wide umbrellas near the steps offering to read your palms, children dressed as Shiva willing to paint your forehead with yellow and draw the <i>Trishul</i>. There is someone selling you something but curios things which are not found anywhere else. 
+
+It is said that unless Baba Vishwanath calls you, you cannot go to Benares. Perhaps it is this deeply rooted conviction, coupled with an innate longing for spiritual proximity, that draws people to this hallowed place. Inside the Vishwanath complex, I felt my thoughts draining away, my bare feet against the polished marble floor numb to the cold and all my consciousness focussed on the one thing I wanted to say. Amidst the resounding echoes of hundreds chanting <i>Har Har Mahadev</i>, to experience this is sublime. 
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-11.png' | prepend: site.baseurl }}" alt="Swarved Mahamandir, Amroha"> 
+	<figcaption>A 7 story temple dedicated to Yoga - Swarved Mahamandir, Amroha</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-12.png' | prepend: site.baseurl }}" alt="Interior of Swarved Mahamandir"> 
+	<figcaption>Interior of Swarved Mahamandir</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-13.png' | prepend: site.baseurl }}" alt="Outer facade of the Mahamandir"> 
+	<figcaption>Outer facade of the Mahamandir</figcaption>
+</figure>
+
+A few kilometers north of Benares through dusty roads and sights of dust covered shops and houses with exposed brickwork is the Swarved Mahamandir, a 7 floor temple dedicated to yoga, constructed over 20 years using exquisite Makrana marble and sandstone. Its interior decorated with carved wood in motifs of peacocks, elephants and birds. Each pillar has a marble artwork having intricately cut coloured marble pieces. The <i>jharokhas</i> let in light softly. As you look up, a chandelier with hundreds of lights and glass pieces cast a glow. Verses are inscribed on marble. There are 135 petal lotus domes in the structure, the priest told me. My mother remarked that the craftsmanship on the marble bore a striking resemblance to the Taj. Everything is not dusty in Benares.
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-14.png' | prepend: site.baseurl }}" alt="Carved stone"> 
+	<figcaption>Peacock motif at Swarved Mahamandir, Amroha</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-15.png' | prepend: site.baseurl }}" alt="Chandelier at Swarved Mahamandir"> 
+	<figcaption>Chandelier at the Mahamandir</figcaption>
+</figure>
+
+Sarnath is where Gautam Buddha gave his first sermon to his five disciples under a tree. The stupa at Sarnath was subjected to canon fire by The Bodhi Tree. Interestingly, the name "Bodhi Tree" resonates with a distinct context in a specific area of Jamshedpur, albeit for entirely unrelated reasons. The Dhamek Stupa is said to be one of the eight which holds the remains of the Buddha. Records point to its existence dating to 544 BC. Buddhism which thrived in subcontinent for centuries effectively dissappeared in the face of repeated Islamic invasions in the late 12th century. Subjected to canon fire by generals who took this solid structure to be a <i>Shivling</i>, the Dhamek Stupa and Sarnath was plundered. Years of looting and excavations of bricks to be used for construction of bridges and ballast under the British Raj, led a structure vastly dilapidated and forgotten.
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-16.png' | prepend: site.baseurl }}" alt="Dhamek Stupa, Sarnath"> 
+	<figcaption>Dhamek Stupa, Sarnath</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-30.png' | prepend: site.baseurl }}" alt="Meditating Buddha, Mulagandha Kuty Vihara"> 
+	<figcaption>Meditating Buddha at the outer wall of Mulagandha Kuty Vihara, Sarnath</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-29.png' | prepend: site.baseurl }}" alt="The Bodhi Tree, Sarnath"> 
+	<figcaption>The Bodhi Tree, Sarnath</figcaption>
+</figure> 
+
+Stories like this makes one wonder at how India could exist even after centuries of plunder, war and colonization. But it exists, the line continues. Cities like Benares and sites like Sarnath not only endure but thrive. It dawned on me that the allure of these places extends beyond mere materiality. While tangible aspects matter, it is the immortal essence of an idea and belief that transcends time, drawing people from America, Burma, Japan, and beyond to these cultural and spiritual landmarks, to India.
+
+First impressions of the city are usually not favourable. The city doesn't offer you a lot barring a few and travellers come with expectations. The memories of Ghats are perhaps what one will take away with them. Yet there is something deeper about Benares which I experienced for a few fleeting moments, not enough to yet put words to it but quite to come back again.
+
+<i>Other Images</i>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-18.png' | prepend: site.baseurl }}" alt="Kashi Vishwanath Temple Complex, Benares"> 
+	<figcaption>Kashi Vishwanath Temple Complex, Benares</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-21.png' | prepend: site.baseurl }}" alt="Gyaanvapi Masjid from the Temple Complex"> 
+	<figcaption>Gyaanvapi Masjid from the Temple Complex</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-20.png' | prepend: site.baseurl }}" alt="Rabdi seller, Vishwanath Gali, Benares"> 
+	<figcaption>Rabdi seller, Vishwanath Gali, Benares</figcaption>
+</figure> 
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-19.png' | prepend: site.baseurl }}" alt="Tea Shop, alleys of Benares"> 
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-22.png' | prepend: site.baseurl }}" alt="Old Benares street life"> 
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-23.png' | prepend: site.baseurl }}" alt="Old Benares street life"> 
+</figure> 
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-24.png' | prepend: site.baseurl }}" alt="Dashwamedh Boarding House, Benares"> 
+	<figcaption>Dashwamedh Boarding House, made famous by Satyajit Ray in his 1979 film Joy Baba Felunath</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-25.png' | prepend: site.baseurl }}" alt="Dashwamedh Ghat, Benares"> 
+	<figcaption>Dashwamedh Ghat, Benares</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-26.png' | prepend: site.baseurl }}" alt="Prayag Ghat, Benares"> 
+	<figcaption>Prayag Ghat, Benares</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-27.png' | prepend: site.baseurl }}" alt="Boats at Dashwamedh Ghat, Benares"> 
+	<figcaption>Boats at Dashwamedh Ghat, Benares</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/202312-benares-28.png' | prepend: site.baseurl }}" alt="Chat seller, Benares"> 
+	<figcaption>Chat seller, Benares</figcaption>
+</figure>
