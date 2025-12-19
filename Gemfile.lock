@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     addressable (2.8.8)
       public_suffix (>= 2.0.2, < 8.0)
@@ -14,6 +14,7 @@ GEM
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     ffi (1.17.2)
+    ffi (1.17.2-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     google-protobuf (4.33.2)
       bigdecimal
@@ -51,6 +52,8 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
@@ -104,6 +107,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-paginate
+  jekyll-seo-tag
   jekyll-sitemap
   support-for
 
