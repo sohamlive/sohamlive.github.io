@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Side Lower
+description: About Side Lower - A blog by Soham
 ---
 
 <div class="post">

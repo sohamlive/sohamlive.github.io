@@ -7,7 +7,7 @@ layout: default
     <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
   </div>
   {%- endif -%}
-  <h1 class="postTitle">{{ page.title }}</h1>
+  <h2 class="postTitle">{{ page.title }}</h2>
   {%- assign time_to_read = page.content | number_of_words | divided_by:180 -%}
   {%- if time_to_read == 0 -%}
   {%- assign time_to_read = 1 -%}
