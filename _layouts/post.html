@@ -3,42 +3,46 @@ layout: default
 ---
 <div class="post">
   {%- if page.image -%}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
-      </div>
+  <div class="featuredImage">
+    <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+  </div>
   {%- endif -%}
   <h1 class="postTitle">{{ page.title }}</h1>
   {%- assign time_to_read = page.content | number_of_words | divided_by:180 -%}
   {%- if time_to_read == 0 -%}
-    {%- assign time_to_read = 1 -%}
+  {%- assign time_to_read = 1 -%}
   {%- else -%}
-	{%- assign time_to_read = time_to_read | plus: 1 -%}
+  {%- assign time_to_read = time_to_read | plus: 1 -%}
   {%- endif -%}
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} &nbsp; | &nbsp; <span class="time">{{ time_to_read }}</span> Minute Read</p>
-  <div class="post-tags"><a href="{{site.baseurl}}/tags#{{ page.tags }}" title="View other posts filed under {{ page.tags }}">{{page.tags}}</a></div>
-  
+  <p class="meta">{{ page.date | date: '%B %d, %Y' }} &nbsp; | &nbsp; <span class="time">{{ time_to_read }}</span>
+    Minute Read</p>
+  <div class="post-tags"><a href="{{site.baseurl}}/tags#{{ page.tags }}"
+      title="View other posts filed under {{ page.tags }}">{{page.tags}}</a></div>
+
   {{ content }}
 
   <p><small>Like it? <a href="{{site.baseurl}}/subscribe">Subscribe</a></small></p>
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
-    {%- if page.previous.url -%} 
-      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
-      {%- if page.previous.image -%} 
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
+    {%- if page.previous.url -%}
+    <a class="prev{% if page.previous.image %} image{% endif %}"
+      href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
+      {%- if page.previous.image -%}
+      <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
       {%- endif -%}
     </a>
-    {%- endif -%}  
-    {%- if page.next.url -%}  
-      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
-      {%- if page.next.image -%} 
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
-      {%- endif -%} 
-      </a>
-    {%- endif -%} 
+    {%- endif -%}
+    {%- if page.next.url -%}
+    <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{
+        page.next.title }}&nbsp;&raquo;</span>
+      {%- if page.next.image -%}
+      <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+      {%- endif -%}
+    </a>
+    {%- endif -%}
   </div>
 </div>
 
 {%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
+{%- include disqus_comments.html -%}
 {%- endif -%}
