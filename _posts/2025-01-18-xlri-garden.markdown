@@ -4,7 +4,7 @@ title:	"XLRI Garden of Business & Human Resources"
 date:	2025-01-18
 tags:	Photography
 image:	202501-xlri-garden-cover.png
-description: A visual treat of XLRI Jamshedpur's campus during winter. 
+description: In the quiet winters of XLRI Jamshedpur, blossoms of chrysanthemums and dahlias brighten the campus, weaving joy into the bittersweet season of farewells and new beginnings
 ---
 
 <p class="intro"><span class="dropcap">J</span>anuary brings familiar tidings to XLRI—the MAXI Fair (45th edition) and the final placement season. Classes have been off for more than a week to accommodate placements. While it has been a bittersweet moment for many this time, for others, it may not have turned out how they hoped it would. 'Cyclicity,' the papers call it. The time post one is 'signed out of the process' leaves one with ample free time that is not precisely spent prioritizing the final semester subjects but mostly planning grad trips. The choice for the past few seasons has been South East Asia. In this pause between academic life and what comes next, I chose to stay back. Perhaps a trip to Kashmir? But, for now, I am on campus, and winters in XLRI are beautiful. I've watched these seasonal changes for two years and have meant to write about them ever since.</p>	
