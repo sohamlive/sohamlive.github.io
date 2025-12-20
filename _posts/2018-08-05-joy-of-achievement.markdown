@@ -2,7 +2,7 @@
 layout: post
 title:  "The Joy of Achievement"
 date:   2018-08-05
-image: joy-of-achievement-cover.png
+image: 201808-joy-of-achievement-cover.png
 description: A not so short account of me and RD's Tata Crucible journey from Chandigarh in January 2018 to Bombay in April 2018. Lots of interesting memories and some cherished months. If there is truly an achievement in my life, this would come foremost. I think this would resonate with RD too. Also, this post contains my last known public photo. Quite something.
 tags:	Life,etc
 ---
@@ -16,12 +16,12 @@ Borrowing the title of this post from a book (which I am yet to read) would be i
 Sometime back in January, RD and I had won the Chandigarh round of Tata Crucible. Then again in March we were the runners up in the Delhi zonals securing our ticket for the National Finals. It all felt surreal back then on 17<sup>th</sup> March in Delhi. While I was visibly excited and happy, RD was not. To this day I keep wondering to what kept her from celebrating or even smiling. Surreal was knowing when you have qualified for the Nationals, missing ones’s (mine) Volvo bus from Delhi to Patiala and then covering the journey at 9 PM on a PRTC bus is definitely not. I have a certain bad luck associated with missing the bus from Delhi for my half yearly pilgrimage to Patiala. RD took the wrong metro home. So, in a way balance was maintained. Delhi was done. Vivanta by Taj, Dwarka was done. Giving my first TV interview was done. Winning a Kindle and another Fastrack done too. While I made the journey alone, I had these few materialistic possessions and an experience to remember to give me company.
 
 <figure>
-	<img src="{{ '/assets/img/joy-of-achievement-1.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-1.png' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Winning the Delhi Zonals</figcaption>
 </figure>
 
 <figure>
-	<img src="{{ '/assets/img/joy-of-achievement-2.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-2.png' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>There is joy in the littlest of things to be found</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ RD – Oh! No. It is actually very light. It’s for the trophies
 We are going to win today, I thought. Secretly wishing that some unsmoothness creeps into our day before the finals begins. I still did not pay much attention to what RD kept saying about the troubles she went through when she found gate locked. Still sleepy. Still blissfully unaware.
 
 <figure>
-	<img src="{{ '/assets/img/joy-of-achievement-3.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-3.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Achievement unlocked – Cello Gripper and Pencil for chopsticks</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ We were booked at Vivanta by Taj, Colaba. The Uber ride from airport to hotel wa
 *Mai pehle ek cheque book printing press mein kaam karta tha. Ab Uber chalata hu. Mera beta Vidyamandir Classes se JEE ki tayari kar raha hai.*
 
 <figure>
-	<img src="{{ '/assets/img/joy-of-achievement-4.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-4.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>March se toll badh gaya hai</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ A sorry lunch indeed. Some part of me was happy. Not Smooth!
 
 #### The Finals. Vivanta by Taj, South Bombay
 
-<img src="{{ '/assets/img/joy-of-achievement-5.png' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-5.png' | prepend: site.baseurl }}" alt=""> 
 
 We lost. We underestimated. We were slow. We were afraid.
 
@@ -88,7 +88,7 @@ I hate consolations. I personally do not like to share my loss with anyone else.
 We missed our 3-course dinner again. A light Italian dinner atop a hotel’s terrace with the four of us enjoying the enticing view of the Marine Drive and feeling the gentle breeze while another round of pasta was served made up for the day.
 
 <figure>
-	<img src="{{ '/assets/img/joy-of-achievement-6.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-6.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>SB, AB, RD, UA</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ We missed our 3-course dinner again. A light Italian dinner atop a hotel’s ter
 This is the day I (and perhaps RD and I) will the cherish the most. The much-needed sleep helped to wipe the sadness from us a little. The buffet breakfast did the rest. The chicken cheese omelette brought the smile back. Having again an Italian 3-course lunch at Trattoria brought our happy selves back. Having an entire day to ourselves was another novelty which we were yet to unlock.
 
 <figure>
-	<img src="{{ '/assets/img/joy-of-achievement-7.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-7.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Sunset at Chowpatty</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Sitting on the sandy beach of Chowpatty and the watching the sunset, having ice 
 I am perhaps understating that day. Writing about it, it sounds boring. But experiencing it was as different as it could be. I wish I could bring in even one iota of the vibrancy from the moment we experienced.
 
 <figure>
-	<img src="{{ '/assets/img/joy-of-achievement-8.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-8.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>In Café Mondegar</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ The reality dawned quite soon.
 Even on our way to the airport, we had some crazy whims. However, 15th April 2018 was a day to remember; a fine beginning to the Bengali New Year.
 
 <figure>
-	<img src="{{ '/assets/img/joy-of-achievement-9.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201808-joy-of-achievement/joy-of-achievement-9.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Man vs Food. Food won</figcaption>
 </figure>
 

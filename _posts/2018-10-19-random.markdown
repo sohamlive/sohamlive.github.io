@@ -2,7 +2,7 @@
 layout: post
 title: "Random"
 date:  2018-10-19
-image: random-cover.jpg
+image: 201810-random-cover.jpg
 description: A collection of images taken in Thapar University, Patiala during August - October 2018 time frame. No particular topic. 
 tags:	Photography
 ---
@@ -14,49 +14,49 @@ Quintessentially random images taken from a boring perspective, having no subjec
 Also features a self portrait after realizing that the last one was removed a few years ago.
 
 <figure>
-	<img src="{{ '/assets/img/random-1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-random/random-1.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>A Hostel With a View</figcaption>
 </figure>
 
 Hostel J – A time when Thapar still took care, quality, aesthetics and functionality in focus while building its hostels.
 
 <figure>
-	<img src="{{ '/assets/img/random-2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-random/random-2.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>When It Rained</figcaption>
 </figure>
 
 When this photo was taken, these flowering plants were still present on the divider en route to COS. A few days ago all these were trimmed. The divider is now just a bare collection of concrete tiles. The monotony of the pathway is broken by the empty soil mounds where only the twigs remains. No greens. No flowers any more. An eyesore.
 
 <figure>
-	<img src="{{ '/assets/img/random-3.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-random/random-3.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>A Room With a View</figcaption>
 </figure>
 
 Early to bed, early to rise will reward you with a view so nice. This is the first morning after the torrential rains which hit Northern India in September subsided.
 
 <figure>
-	<img src="{{ '/assets/img/random-4.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-random/random-4.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Sunrise from J</figcaption>
 </figure>
 
 The early morning chill has begun to set in. It is misty outside and the birds are yet to wake up. The hostel is still sleeping – it is 6 in the morning. Everything is so quiet and serene around.
 
 <figure>
-	<img src="{{ '/assets/img/random-5.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-random/random-5.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Symmetry Fail Walkway</figcaption>
 </figure>
 
 Just after 1 PM or perhaps just before on a warm October afternoon. Thought that with the less crowd flow, I could finally take a photo of this walkway connecting E to F and D blocks, incorporating symmetry and restarting my dormant Instagram with something different. The black and white is a tribute to my bravado on getting inspired by Raghu Rai. Sigh!
 
 <figure>
-	<img src="{{ '/assets/img/random-6.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-random/random-6.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Quiz – A Modern Art</figcaption>
 </figure>
 
 15 people. One question. Hands on chin. Sombre expressions. Sometimes I am amazed at how one question can bring forth a myriad amount of expressions from people. Clueless, Pride, Dejection, Anger, Stupidity – this.is.quiz.
 
 <figure>
-	<img src="{{ '/assets/img/random-7.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-random/random-7.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Self Portrait 2018</figcaption>
 </figure>
 

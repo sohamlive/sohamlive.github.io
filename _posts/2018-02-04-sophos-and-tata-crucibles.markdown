@@ -2,7 +2,7 @@
 layout: post
 title:  "Sophos & Tata Crucibles"
 date:   2018-02-04
-image: sophos-and-tata-crucibles-cover.jpg
+image: 201802-sophos-and-tata-crucibles-cover.jpg
 description: A very descriptive (bit more than necessary and with a shred of imprudence) account of me and RD's Tata Crucible win in Chandigarh held at IISER, Mohali in January 2018.
 tags:	Life,etc
 ---
@@ -13,7 +13,7 @@ tags:	Life,etc
 Sigh! I didn’t mean to start off like this. But circumstances have changed. Sophos is activated and hell took a new name and verb. To the uninitiated, this is the name of the network infrastructure used by Thapar to provide internet services.
 
 <figure>
-	<img src="{{ '/assets/img/sophos-and-tata-crucibles-1.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201802-sophos-and-tata-crucibles/sophos-and-tata-crucibles-1.png' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Mighty Sophos</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Let me not bore you with the prep part. I will zoom through.
 Met RD-discussed topics-wrote down-made a list-rendezvous at main cafeteria on some days-shared the list with AC, Aabhas and ARa out of goodwill-RD was mad at me-I meh’d the topic and went on with my prep-tried opening livemint-blocked by Sophos-tried opening adage-blocked by Sophos-Slideshare nights with my group-religious visits to Crucible Chronicles and others-watched so many TC videos that YouTube started suggesting me any quiz based on Giri or Tatas.
 
 <figure>
-	<img src="{{ '/assets/img/sophos-and-tata-crucibles-2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201802-sophos-and-tata-crucibles/sophos-and-tata-crucibles-2.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Late night serious prep</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Then he burst out, “I was just joking! You have already given me the answer an
 Plus 2 from minus 1! We were going to the next round! The wave of jubilation ran through me. We were both so, so relieved! Giri has a certain amount of proclivity for throwing such badly timed ‘acts’.
 
 <figure>
-	<img src="{{ '/assets/img/sophos-and-tata-crucibles-3.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201802-sophos-and-tata-crucibles/sophos-and-tata-crucibles-3.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Empty seats at the auditorium</figcaption>
 </figure>
 
@@ -104,12 +104,12 @@ Both of us might have literally jumped out of our seats on stage. We won Tata Cr
 And we got 75000 rupees and some goodies (which were actually not good or half as useful compared to last year). We earned it! Wowie! There was a slight error on Greycaps part which we would have gladly overlooked if we hadn’t won – the cheque was for Sonepat and not Chandigarh. So what you see below, is a photoshopped version of the original. Hail Adobe!
 
 <figure>
-	<img src="{{ '/assets/img/sophos-and-tata-crucibles-4.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201802-sophos-and-tata-crucibles/sophos-and-tata-crucibles-4.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>The Win. The Pride. The Prestige.</figcaption>
 </figure>
 
 29<sup>th</sup> was also a day of many firsts for me. One I got to win a quiz and second, I went to Taco Bell! Jamshedpur doesn’t provide me with too many options. Thankfully Chandigarh does.
 
-<img src="{{ '/assets/img/sophos-and-tata-crucibles-5.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201802-sophos-and-tata-crucibles/sophos-and-tata-crucibles-5.jpg' | prepend: site.baseurl }}" alt=""> 
 
 *PS – I waited 12 years for winning a quiz contest. I had lacked a dedicated and like-minded teammate. I lacked trust. Not anymore. I got the best teammate ever.*

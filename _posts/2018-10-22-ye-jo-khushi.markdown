@@ -2,7 +2,7 @@
 layout: post
 title:  "Ye Jo Khushi"
 date:   2018-10-22
-image: ye-jo-khushi-cover.png
+image: 201810-ye-jo-khushi-cover.png
 description: Short account of my Pujo in 2018. Away from home, I have missed Pujo for 2 years. This time, celebrated it somewhat differently.
 tags:	Life,etc
 ---
@@ -26,23 +26,23 @@ Baba had just flushed in some money into my account (Pujo allowance) and on Sapt
 The place used to be the entrance of the fort of the erstwhile royal family of Patiala – Qila Mubarak (Fort Congratulations). It was dark. But the damage to the 18th century fortress was evident – in front of the square or Chowk was a temple, the rest of it covered with shops on four sides, their signage covering the vast arched entrance to the fort. The people were unaware. Or perhaps were so used to their heritage in their daily lives that preservation never came to their mind. The left side of the Chowk was occupied by street food stalls of chat, champ and surprisingly dosa. They weren’t too crowded. The plastic chairs were empty and the owners were eager for business. The people passed them by and the stoves were yet to be lighted.
 
 <figure>
-	<img src="{{ '/assets/img/ye-jo-khushi-2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-ye-jo-khushi/ye-jo-khushi-2.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Qila Chowk, Patiala</figcaption>
 </figure>
 
 The red brick structure was built in 1763 in Sikh architectural style by the founder of the Patiala dynasty, Baba Ala Singh. For centuries it was the seat of power and the first fort of the city. Now, it sits at the intersection of three major commercial spines – Gur Mandi, Bajaja Bazaar and Shah Nashin Bazaar. I entered the gate of the fort and looked up to see a fine circular stucco decoration half of which had disintegrated. Further on, it was dark, empty. Outside the entrance there was a sign – Qila Mubarak. Patiala Heritage. The sign had faded.
 
 <figure>
-	<img src="{{ '/assets/img/ye-jo-khushi-3.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-ye-jo-khushi/ye-jo-khushi-3.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Gateway to Qila Mubarak</figcaption>
 </figure>
 
-<img src="{{ '/assets/img/ye-jo-khushi-4.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201810-ye-jo-khushi/ye-jo-khushi-4.jpg' | prepend: site.baseurl }}" alt=""> 
 
 If it wasn’t for the Pujo, I wouldn’t have visited. In all my life I have never seen such a quiet Durga Pujo. Organized the local Bengalis who in an earlier time had migrated to work here as jewelry craftsmen and other small-time jobs, the absence of a Dhaki was a solemn affair. Perhaps their years of living in Punjab and learning the ways of the locals or even the monetary affair made the exclusion of the Dhaki a bit more plausible. Seeing thakur after 3 years was overwhelming for me. I was struck by her unwavering gaze, that barely noticeable smile and her towering yet benevolent figure. Durga is a mother goddess, her protective form willing to unleash against the wrong. Joined my palms, bowed before her and prayed. I must have stood transfixed for quite a few minutes before my friend nudged me.
 
 <figure>
-	<img src="{{ '/assets/img/ye-jo-khushi-5.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-ye-jo-khushi/ye-jo-khushi-5.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Qila Chowk Durga Pujo</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ The Youth Welfare Club of Thapar organizes a Jagran on Asthami evening and conti
 At the entrance of OAT, there was a big block of ice, around 2 feet tall rectangular block. There were leaves stuck on it. At the first I couldn’t fathom what could it be. The Bengali in me for whom Pujo is a synonym for food thought it was for the ice lolly or chuskis. Forgive me! I couldn’t have been more wrong. It was a shivling for the God Shiva. Inside I was exposed to different culture. The stage had a huge cutout of Shiva decorated with garlands and detachable scenes of mountains. Just below it was the figurine of Maa Parvati, another form of Maa Durga in a red saree, sitting over her consort – the lion and having the same benign stare at the students who had gathered there to perhaps just enjoy the environment and the night. She is not judging. She knows. One major difference I noticed here was the ghumta or headscarf was over her head. Such a sight was a bit unsettling for me. For years, the depictions of Durga I had seen was of a normal woman – never one with a headscarf, trying to go low. She came to her people, she was one with them. There was grace. In all my years, I had looked at Durga Pujo from a Bengali perspective, this time it was Durga Puja and the North Indian version though vastly different from mine had its own takers.
 
 <figure>
-	<img src="{{ '/assets/img/ye-jo-khushi-6.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-ye-jo-khushi/ye-jo-khushi-6.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Jagrata at Thapar University</figcaption>
 </figure>
 
@@ -68,21 +68,21 @@ Chandigarh has more in common with Jamshedpur than any city I have been to. Jams
 Pujo was what I experienced here after a drought of 3 years. Chandigarh Kalibari was good but I couldn’t come to like it as much as it was advertised. There was a mela outside – food stalls, crafts stall, a sitting vendor with roasted peanuts, a young tired looking boy with balloons in his hand for sale. An old man with a long wooden pole from where flutes and other toys jutted out. Yes, it was a Pujo Mela. But somewhere the feeling of it was missing. Perhaps I had expected too much.
 
 <figure>
-	<img src="{{ '/assets/img/ye-jo-khushi-8.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-ye-jo-khushi/ye-jo-khushi-8.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Chandigarh Kalibari Durga Pujo</figcaption>
 </figure>
 
 Banga Bhavan at Sector 35C was in my opinion a much better ambience. Small and homely. Not much of a mela rather a mela of food stalls were inside the small premises. Calcutta style egg rolls, fish cutlets, ghugni, fish fry, chicken kebabs and biryani – defying the Navratri this was a mini Bengal in the heart of Chandigarh. The results of a drawing competition for children were pinned against the wall. The theme was Environment or Durga Pujo. A stage was set up for some culturals to be held later on, a man with table full of books of Mario Puzo, Vivekananda, Tagore, Franz Kafka, Dan Brown sat just outside the Pujo mandap. It is difficult to find a Bengali without a taste for such finer things. Banga Bhavan encapsulated all these within their small premises for these few days.
 
 <figure>
-	<img src="{{ '/assets/img/ye-jo-khushi-9.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-ye-jo-khushi/ye-jo-khushi-9.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Dhaki at Banga Bhavan Durga Pujo</figcaption>
 </figure>
 
 We came back on the last bus home – the 9:45 to Patiala. *Yes, home* my friend said. No matter how much we chide or scoff at this small town, living here made it feel like home with the knowledge that we are back again at familiar sights and smell. There is a certain small town charm to this place.
 
 <figure>
-	<img src="{{ '/assets/img/ye-jo-khushi-10.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201810-ye-jo-khushi/ye-jo-khushi-10.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Tagore, Kafka, Premchand</figcaption>
 </figure>
 

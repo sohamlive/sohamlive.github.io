@@ -2,7 +2,7 @@
 layout: post
 title:  "A Wintry Morning Post"
 date:   2017-11-12
-image: wintry-morning-post-cover.jpg
+image: 201711-wintry-morning-post-cover.jpg
 tags:	Life,etc
 ---
 
@@ -11,7 +11,7 @@ tags:	Life,etc
 Make no mistakes here. I am not from Delhi. My lungs breathe in fresh air with no PM2.5 particles in the atmosphere so my fondness is completely natural. It is not smog. My eyes don’t get irritated and I do not need to cover my mouth. It’s beautiful in here. White. Wherever the eyes go, everything is covered with dew drops. The plants look clean and yes, my cycle is washed every day. Every morning when I rush to the cycle stand to go to my classes, I can see barely 3 feet and it’s so chilly. It’s the best time of the year. People huddle together, come late to class, get reprimanded by the Professors and then go back to their slumber state as soon as they hit the bench. And it is the season of momos and coffee! Two things I will forever be a fan of.
 
 <figure>
-	<img src="{{ '/assets/img/wintry-morning-post-1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201711-wintry-morning-post/wintry-morning-post-1.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Cycle Stand of Hostel K</figcaption>
 </figure>
 
@@ -21,9 +21,9 @@ October was truly an ‘enlightening’ month. Read a lot. Travelled a lot. Miss
 
 While I was in Jamshedpur for the Diwali break, some folks from my college went to IIT Delhi’s Rendezvous. For quizzes and to enjoy the ‘freedom’ which New Delhi, the metropolis offers. Fair enough. Now they did something which made me furious and drowned me in spirits of melancholia. They went to Daryaganj and bought books by the loads and SENT ME PHOTOS of them with nothing for me. Fortunately, on my journey back to Delhi aboard the Purushottam Express, I was able to buy Harper Lee’s How to Kill a Mockingbird for Rs. 100 only. An original, sealed and unblemished novel on a train! How better could my journey be! That’s why people, I love trains. Lots of stories and emotions. Now that wasn’t all. My parents gladly agreed to buy me two more books which were at a throwaway price on Amazon. So, with this my rest of the semester is sorted.
 
-<img src="{{ '/assets/img/wintry-morning-post-2.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-wintry-morning-post/wintry-morning-post-2.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/wintry-morning-post-3.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-wintry-morning-post/wintry-morning-post-3.jpg' | prepend: site.baseurl }}" alt=""> 
 
 Now, I have spent so much in the first week of November that I would have to just scrape through. No more momos, no more visits to the COS, no more running off to Aahar to have bread rolls (which cost just Rs. 10). Yes, I am that broke at this moment. Also, started using LaTeX for a project. Feels so good when your texts and formulas are rendered so beautifully. Like an artist creates an art. Word will be relegated soon enough by me for academic work provided the professors aren’t too choosy about fonts, colours and line spacing (yes it has happened with me).
 

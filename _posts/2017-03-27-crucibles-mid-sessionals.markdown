@@ -2,7 +2,7 @@
 layout: post
 title:  "Of Tata Crucibles and Mid Sessionals"
 date:   2017-03-27
-image: crucibles-mid-sessionals-cover.jpg
+image: 201703-crucibles-mid-sessionals-cover.jpg
 description: Me and RD's first win at Tata Crucibles held at IISER Mohali, Chandigarh. We came runners up, beaten at the last question by our own college team. Quite something.
 tags:	Life,etc
 ---
@@ -26,7 +26,7 @@ With that news I started my prep with full passion. I use the word passion becau
 From meeting in the library to the canteen, both Rajenki and I divided the topics so meticulously that no sector was left untouched. India Business Quiz, Crucible Chronicles, Slide Share and Wikipedia became the most visited websites on our browsers. We discussed codenames, advertisements and current affairs over popcorn and mango bite. And all these happened in the reading week. With fear in our hearts we still proceeded.
 
 <figure>
-	<img src="{{ '/assets/img/crucibles-mid-sessionals-1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201703-crucibles-mid-sessionals/crucibles-mid-sessionals-1.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Our Things to Do</figcaption>
 </figure>
 
@@ -36,12 +36,12 @@ Reward is in the risks.
 
 And the second team to qualify is from Thapar University, RD and SB.
 
-<img src="{{ '/assets/img/crucibles-mid-sessionals-2.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201703-crucibles-mid-sessionals/crucibles-mid-sessionals-2.jpg' | prepend: site.baseurl }}" alt=""> 
 
 And the final team to qualify is again from Thapar University, AJ and HSB.
 
 <figure>
-	<img src="{{ '/assets/img/crucibles-mid-sessionals-3.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201703-crucibles-mid-sessionals/crucibles-mid-sessionals-3.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>AJ and HSB caught discussing strategy</figcaption>
 </figure>
 

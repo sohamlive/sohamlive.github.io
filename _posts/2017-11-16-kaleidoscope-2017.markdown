@@ -2,7 +2,7 @@
 layout: post
 title:  "Kaleidoscope 2017"
 date:   2017-11-16
-image: kaleidoscope-cover.png
+image: 201711-kaleidoscope-2017-cover.png
 description: Collection of images from Kaleidoscope 2017 - the annual exhibition of Fine Arts & Photographic Society, Thapar University on the theme Around The World. One of my most favourable events from college. Pure art.
 tags: Photography
 ---
@@ -11,20 +11,20 @@ There are a few things in Thapar which are so good that you would want to sit ba
 
 The society presented its annual exhibition Kaleidoscope 2017 on 15<sup>th</sup> November, 2017.  For one evening the otherwise drab SBOP Lawns transformed into a mesmerizing splendor of Art under a delightful canopy of lights. Around The World.
 
-<img src="{{ '/assets/img/kaleidoscope-1.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-1.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/kaleidoscope-2.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-2.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/kaleidoscope-3.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-3.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/kaleidoscope-4.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-4.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/kaleidoscope-5.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-5.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/kaleidoscope-6.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-6.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/kaleidoscope-7.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-7.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/kaleidoscope-8.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-8.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/kaleidoscope-9.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201711-kaleidoscope-2017/kaleidoscope-9.jpg' | prepend: site.baseurl }}" alt=""> 

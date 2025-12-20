@@ -2,7 +2,7 @@
 layout:	post
 title:	"The Intercity to Delhi"
 date:	2019-10-26
-image:	intercity-to-delhi-cover.jpg
+image: 201910-intercity-to-delhi-cover.jpg
 tags:	Travel
 ---
 
@@ -13,7 +13,7 @@ The 7:33 Intercity to Delhi would arrive soon.
 At first glance Patiala could be easily mistaken for just another small-town railway station – there is no outwardly visible clues to its history or its design. The station serving the capital of the PEPSU region is built perpendicular to the rail line. The platform 1 with its arched steel and tin covering, its pillar designed with circular support is vastly different from other stations of India. The Maharaja had grand plans.
 
 <figure>
-	<img src="{{ '/assets/img/intercity-to-delhi-1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201910-intercity-to-delhi/intercity-to-delhi-1.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Patiala</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ Thapar people rarely take the train to Delhi, preferring the much more comfortab
 The arrival of the train was marked by quick and harried activity. The train stops for 2 minutes and today it stopped way before its marked point, making people to run for with luggage on hand and children on other. This bond between the older matured hand and the small tender hand was held tightly. The matured hand has seen much of the world than to allow it to hold the hand lightly. Breaking into a run, I too joined their ranks. My hands instead carrying a bag, the weight of which I believe was mimic my own – the result of a long overdue visit home.
 
 <figure>
-	<img src="{{ '/assets/img/intercity-to-delhi-2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201910-intercity-to-delhi/intercity-to-delhi-2.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Early mornings at Patiala</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ With the blare of the horn, the train started, I looked outside. The platform no
 
 The brilliant beams of the golden sun gave a splendid shade to the Punjab countryside. At the distance, the yellow fields merged with the slanting rays as if part of a single entity. A low-lying mist overhangs the fields giving the entire setting a hazy, mysterious appearance. The light is welcomed in all quarters in equal measure. Its warmth embraced gleefully in the mild chilly weather. Inside the compartment the fresh and cool crispy air coming in through the open windows made a few wrap their jackets and shawls closer.
 
-<img src="{{ '/assets/img/intercity-to-delhi-3.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201910-intercity-to-delhi/intercity-to-delhi-3.jpg' | prepend: site.baseurl }}" alt=""> 
 
 The compartment was an old one where two rows of seats face each other as if to facilitate conversations. In 2019, it didn’t. A middle-aged man, balding, small in height with a bandage on his leg and a tiny voice occupied the window seat. From time to time, he kept adjusting his leg to make it a little more comfortable on the hard-cushioned seat. His view was fixed outside, as if thinking about some problem. The trance broken by the calls where he kept mentioning someone his coach number. To my right was well built, lean and tall man. Wearing a red jacket and khaki coloured pants, his grave face made me think him of a police officer on leave. My imagination was given backing when he asked the young man on his opposite to down the glass shutter. ‘It’s cold inside.’ His voice boomed. More like an order than a request. The young man complied after taking some time to register the fact that a protest would be futile.
 
@@ -55,7 +55,7 @@ Ambala also brought with it the much needed TTE. The sight of him made many stan
 The necessary transaction thus completed and uncertainty settled, she went back to her slumbering state. The infelicitous ones kept looking at her with a scorn as they made their way back. Argument was useless.
 
 <figure>
-	<img src="{{ '/assets/img/intercity-to-delhi-4.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201910-intercity-to-delhi/intercity-to-delhi-4.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Life on tracks at Ambala Cantt Jn</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Outside, the country side changed. From single storied houses without plaster to
 
 I found the small-town station, where the train did not stop quainter and cleaner. There was no one except the lone guard who lifted the green flag for the passing train. The stations had the luxury of having flowering plants in comparison to its bigger counterparts. Most often having bougainvillea plants in their pink and yellow in full bloom, overflowing their guarded enclosure.
 
-<img src="{{ '/assets/img/intercity-to-delhi-5.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201910-intercity-to-delhi/intercity-to-delhi-5.jpg' | prepend: site.baseurl }}" alt=""> 
 
 As the tracks led towards Delhi, the view outside the window acquired an anaemic look. Houses turned increasingly ugly, built on any available land without any thought. Even the fields were layered with hazy fog, refusing to move. The streams passing underneath changed colours from a bluish to a darker shade of green, having an obnoxious stench. The tracks became dusty and a fine layer of dust covered the passengers when an opposite train passed. The view looked heavy, strenuous. I took to sleep at this point.
 
@@ -74,7 +74,7 @@ The Delhi Circular Railway is now mostly a remnant of the past. The stations now
 The two storied houses gave way to tall, modern buildings. The garbage increased. Cows, people, pigs all scavenging in the same place. At some point, plastic was being burnt. The stench became unbearable. Yet people lived in such squalor, in small, cramped dwellings.
 
 <figure>
-	<img src="{{ '/assets/img/intercity-to-delhi-6.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201910-intercity-to-delhi/intercity-to-delhi-6.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Rush hour at Subzi Mandi</figcaption>
 </figure>
 
@@ -83,6 +83,6 @@ People left at Subzi Mandi. In a daring show of bravery, they jumped onto the tr
 After Subzi Mandi, the pace slowed down to a crawl. Tall, grey buildings guarded the blackened tracks. Someone got pushed by the luggage near the door. An angry expletive registered the disapproval of the action. Delhi has arrived.
 
 <figure>
-	<img src="{{ '/assets/img/intercity-to-delhi-7.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201910-intercity-to-delhi/intercity-to-delhi-7.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Old Delhi</figcaption>
 </figure>

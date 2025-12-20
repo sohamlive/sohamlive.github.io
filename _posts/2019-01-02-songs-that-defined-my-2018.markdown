@@ -25,7 +25,7 @@ After winning the Chandigarh round of Crucible, I was elated. Sometimes I wonder
 
 ### [Santorini](https://www.youtube.com/watch?v=6l-lBaP1GzM), [Aria](https://www.youtube.com/watch?v=guRM45nE8L0), [Rain Must Fall](https://www.youtube.com/watch?v=Iq3zo432sAU) – Yanni
 
-<img src="{{ '/assets/img/songs-of-2018-1.png' | prepend: site.baseurl }}" alt="">
+<img src="{{ '/assets/img/201901-songs-that-defined-my-2018/songs-of-2018-1.png' | prepend: site.baseurl }}" alt="">
 
 Why, why have I missed this Greek maestro? Discovered Yanni through one of my TC prep nights. Each piece is a magnum opus. The way he incorporates exotic instruments to create music is truly an eclectic fusion of ethnic sounds. His music makes me happy, makes me smile. Personal favourite – Rain Must Fall.
 
@@ -73,13 +73,13 @@ I watch a lot of railway videos on YouTube and I think that the site must have s
 
 ### [Gabriel’s Oboe – Ennio Morricone](https://www.youtube.com/watch?v=lAoT2ktM2H0)
 
-<img src="{{ '/assets/img/songs-of-2018-2.png' | prepend: site.baseurl }}" alt="">
+<img src="{{ '/assets/img/201901-songs-that-defined-my-2018/songs-of-2018-2.png' | prepend: site.baseurl }}" alt="">
 
 This track from the movie The Mission left me spell-bound. Ennio Morricone is a gift to humanity. Every spaghetti western I have watched had background score by this man. I could not imagine he could also create wonders like this. This is slow but beautiful which needs to be relished. Henrik Chaim Goldschmidt’s [version](https://www.youtube.com/watch?v=2WJhax7Jmxs) is a great rendition of this.
 
 ### [Azaadiyan – Amit Trivedi, Neuman Pinto and Amitabh Bhattacharya](https://www.youtube.com/watch?v=3iCauE_5gMY)
 
-<img src="{{ '/assets/img/songs-of-2018-3.png' | prepend: site.baseurl }}" alt="">
+<img src="{{ '/assets/img/201901-songs-that-defined-my-2018/songs-of-2018-3.png' | prepend: site.baseurl }}" alt="">
 
 In the last week of November amidst the project submissions, quizzes and lab evaluations I found my solace in this. In part due to its lyrics and also due to the film being shot in Jamshedpur with this song being picturized on the Kadma-Sonari Link Road, just metres away from my home. It didn’t bring in me a huge desire to go home but it sure does kindles up some wonderful memories of home and my city. I might perhaps use the last lines of this song for a post years later…
 

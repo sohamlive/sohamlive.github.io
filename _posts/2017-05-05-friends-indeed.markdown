@@ -11,7 +11,7 @@ Place – Room ~~A103~~ A102, Hostel B, Thapar University, Patiala <br>
 Reason – Coursework.
 
 <figure>
-	<img src="{{ '/assets/img/friends-indeed.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201705-friends-indeed/friends-indeed.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Great minds working together to solve Engineering Design 2 problems</figcaption>
 </figure>
 

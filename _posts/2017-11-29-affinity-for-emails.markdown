@@ -17,7 +17,7 @@ Years of neglect, creating numerous other accounts destroyed the purity of mailb
 It took me 7 years to see eye to eye on what I had done. College changes you. I tell you people, cleaning around 2000 messages and unsubscribing from dozens of sites is not an easy task at all. I can now see where our education system lacks. We are taught to write letters both informal and formal and graded on the same but never how to write emails. In this age, when almost everything is being done through this medium – the Indian education system royally screws up big time. In school, it was revolting to me that someone would grade and mark on my informal letters to friends, someone would try to justify, someone would grade the relationship between two acquaintances.
 
 <figure>
-	<img src="{{ '/assets/img/affinity-for-emails-1.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201711-affinity-for-emails/affinity-for-emails-1.png' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>'Work' emails</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ I left all other social media sites somewhere in April 2017. I could not bear th
 Now in this period, I got a few people who actually communicate over emails. No more commenting or expecting a like. Life is personal once again! Just two people exchanging mails with the world oblivious. Gradually my length of emails grew. I started to like writing more and more. Why? Because no one would judge me. No one would comment on my thoughts. The World for once and all is shut off.
 
 <figure>
-	<img src="{{ '/assets/img/affinity-for-emails-2.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201711-affinity-for-emails/affinity-for-emails-2.png' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Writing, writing and writing</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Now, all I want is to write letters. I yearn to go back to the olden days. The l
 <blockquote> All I want is to write letters to someone and get a reply. A wistful longing. </blockquote>
 
 <figure>
-	<img src="{{ '/assets/img/affinity-for-emails-3.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201711-affinity-for-emails/affinity-for-emails-3.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Until then, Thermo Fluids will be here for company</figcaption>
 </figure>
 

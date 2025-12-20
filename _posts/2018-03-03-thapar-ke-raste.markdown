@@ -16,22 +16,22 @@ I took a walk this evening and clicked some photos sans Spotify sans Whatsapp. M
 
 All images are edited with Snapseed and scaled down to width 880px for the blog.
 
-<img src="{{ '/assets/img/thapar-ke-raste-1.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-1.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-2.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-2.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-3.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-3.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-4.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-4.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-5.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-5.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-6.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-6.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-7.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-7.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-8.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-8.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-9.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-9.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/thapar-ke-raste-10.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201803-thapar-ke-raste/thapar-ke-raste-10.jpg' | prepend: site.baseurl }}" alt=""> 

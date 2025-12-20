@@ -3,7 +3,7 @@ layout:	post
 title:	"Pujo in a Small Town"
 date:	2021-10-17
 tags:	Life,etc
-image:	pujo-in-jampot-cover.jpg
+image: 202110-pujo-in-a-small-town-cover.jpg
 description: Reminiscing memories of celebrating Durga Pujo in a small town of Eastern India. This post is my attempt to capture and remember the Pujo of my home town as experienced by me over the years. 
 ---
 

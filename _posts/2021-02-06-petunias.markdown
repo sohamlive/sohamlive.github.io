@@ -9,21 +9,21 @@ description: Winter Garden in Jamshedpur during December 2020 -  February 2021
 Petunias and marigold growing in our garden during the winter of December 2020 - February 2021. 
 
 <figure>
-	<img src="{{ '/assets/img/petunias-1.png' | prepend: site.baseurl }}" alt="White Petunia"> 
+	<img src="{{ '/assets/img/202102-petunias/petunias-1.png' | prepend: site.baseurl }}" alt="White Petunia"> 
 </figure>
 
 <figure>
-	<img src="{{ '/assets/img/petunias-2.png' | prepend: site.baseurl }}" alt="Purple Petunia"> 
+	<img src="{{ '/assets/img/202102-petunias/petunias-2.png' | prepend: site.baseurl }}" alt="Purple Petunia"> 
 </figure>
 
 <figure>
-	<img src="{{ '/assets/img/petunias-3.png' | prepend: site.baseurl }}" alt="White Petunia"> 
+	<img src="{{ '/assets/img/202102-petunias/petunias-3.png' | prepend: site.baseurl }}" alt="White Petunia"> 
 </figure>
 
 <figure>
-	<img src="{{ '/assets/img/petunias-4.png' | prepend: site.baseurl }}" alt="White Petunia"> 
+	<img src="{{ '/assets/img/202102-petunias/petunias-4.png' | prepend: site.baseurl }}" alt="White Petunia"> 
 </figure>
 
 <figure>
-	<img src="{{ '/assets/img/petunias-and-marigold.png' | prepend: site.baseurl }}" alt="Orange Marigold"> 
+	<img src="{{ '/assets/img/202102-petunias/petunias-and-marigold.png' | prepend: site.baseurl }}" alt="Orange Marigold"> 
 </figure>

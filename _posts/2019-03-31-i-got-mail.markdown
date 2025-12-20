@@ -2,7 +2,7 @@
 layout: post
 title:	"I've got Mail!"
 date:	2019-03-31
-image:	i-got-mail-cover.jpg
+image: 201903-i-got-mail-cover.jpg
 tags:	Life,etc
 description:	On letter writing, postcards, joys of mailing and the excitement of hearing the postman's bell.
 ---
@@ -16,7 +16,7 @@ When I left all (almost) social media platforms at the beginning of this year, I
 Living in J, while looking at the letter basket, I found that people have even forgotten their rakhis. Sent by sisters with love from faraway places such as Assam and Dehradun, these bright rakhi envelopes were never opened, never even looked at perhaps. The rakhi and the emotions in them intact, just waiting for the brothers to have a look at them. 7 months later, they are lying in the basket and will perhaps lie there until they are thrown away to make space for new letters.
 
 <figure>
-	<img src="{{ '/assets/img/i-got-mail-2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-2.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Rakhis never opened</figcaption>
 </figure>
 
@@ -32,32 +32,32 @@ Others reached. Everyday in February, while coming back from classes, I made one
 While I continue with Postcrossing, here are some photos of what I have till now.
 
 <figure>
-	<img src="{{ '/assets/img/i-got-mail-1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-1.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>First postcards sent in January</figcaption>
 </figure>
 
 <figure>
-	<img src="{{ '/assets/img/i-got-mail-3.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-3.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Sent from the Golden Temple Post Office in February</figcaption>
 </figure>
 
 <figure>
-	<img src="{{ '/assets/img/i-got-mail-4.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-4.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Letterboxes at Patiala Head Post Office</figcaption>
 </figure>
 
-<img src="{{ '/assets/img/i-got-mail-5.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-5.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/i-got-mail-6.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-6.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/i-got-mail-7.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-7.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/i-got-mail-8.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-8.jpg' | prepend: site.baseurl }}" alt=""> 
 
-<img src="{{ '/assets/img/i-got-mail-9.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-9.jpg' | prepend: site.baseurl }}" alt=""> 
 
 <figure>
-	<img src="{{ '/assets/img/i-got-mail-10.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201903-i-got-mail/i-got-mail-10.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Postcards mailed on 30th March, 2019</figcaption>
 </figure>
 

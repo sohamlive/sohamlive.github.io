@@ -8,7 +8,7 @@ tags:	Life,etc
 <p class="intro"><span class="dropcap">T</span>he past few weeks were different. Unexpected. But this article below, took me on a whirlwind tour back to my childhood looking through hazy, nostalgic glimpses of my memory. Thursdays meant TeleKids an TeleKids meant Feluda illustrated. I already feel like old typing this. Diminishing earnings from subscriptions has led Telegraph to alter its weekly supplicants, the new ones often a shadow in comparison to its earlier self.</p>
 
 <figure>
-	<img src="{{ '/assets/img/easy-like-a-sunday-morning-1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/201909-easy-like-a-sunday-morning/easy-like-a-sunday-morning-1.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Feluda in The Hindu</figcaption>
 </figure>
 
