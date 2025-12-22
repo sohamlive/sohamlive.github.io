@@ -142,7 +142,8 @@ select {
 [type=submit],
 button,
 html [type=button] {
-    -webkit-appearance: button
+    -webkit-appearance: button;
+    appearance: button;
 }
 
 [type=button]::-moz-focus-inner,
@@ -191,6 +192,7 @@ textarea {
 
 [type=search] {
     -webkit-appearance: textfield;
+    appearance: textfield;
     outline-offset: -2px
 }
 
@@ -899,7 +901,7 @@ dd {
     margin: 2.5em 0;
     padding: 0;
     line-height: 1.8;
-    c text-align: center;
+    text-align: center;
 }
 
 .post blockquote:before {
@@ -962,7 +964,8 @@ dd {
     font-size: .9em;
     font-style: italic;
     color: #5e5e5e;
-    margin-top: 0.5em
+    margin-top: 0.5em;
+    font-size: 100%;
 }
 
 .post figure img {
@@ -970,8 +973,7 @@ dd {
     display: block;
 }
 
-.post .highlight,
-. {
+.post .highlight {
     margin-bottom: 2rem
 }
 
@@ -1492,9 +1494,7 @@ a.tags-post:hover {
         float: right
     }
 
-    .footer .copy {
-        /*float:left*/
-    }
+
 
     .footer .container {
         padding: 1rem 0;
