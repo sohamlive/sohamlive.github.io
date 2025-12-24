@@ -700,8 +700,8 @@ html {
 
 body {
     font-family: "Crimson Text", Georgia, Times, serif;
-    line-height: 1.75;
-    font-size: 112.5%;
+    line-height: 1.5;
+    font-size: 130%;
     color: #111;
     overflow-x: hidden;
     margin: 0;
@@ -898,7 +898,7 @@ dd {
 
 .post blockquote {
     clear: both;
-    margin: 2.5em 0;
+    margin: 1em 0;
     padding: 0;
     line-height: 1.8;
     text-align: center;
@@ -911,12 +911,12 @@ dd {
 .post blockquote:after,
 .post blockquote:before {
     content: "";
-    position: absolute;
-    background: #2e8b57;
+    /*background: #2e8b57;*/
+    background-color: #1C7484;
     display: block;
     height: 2px;
     width: 150px;
-    left: calc(50% - 75px)
+    margin: 1rem calc(50% - 75px);
 }
 
 .post blockquote:after {
@@ -1294,7 +1294,7 @@ a.tags-post:hover {
 }*/
 @media only screen and (min-width:800px) {
     body {
-        font-size: 125%
+        font-size: 130%
     }
 
     .content {
@@ -1431,7 +1431,7 @@ a.tags-post:hover {
     .post ol,
     .post p,
     .post ul {
-        width: 80%;
+        width: 85%;
         /*75%*/
         float: none;
         margin: 0 auto 2rem
